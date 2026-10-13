@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fondo
+    uniqueID: 1665360121
+    locked: 0
+  - name: Decoracion pared
+    uniqueID: 1272295031
+    locked: 0
+  - name: techo
+    uniqueID: 3580478731
+    locked: 0
+  - name: mesa
+    uniqueID: 1033357365
+    locked: 0
+  - name: banca
+    uniqueID: 1666014883
+    locked: 0
+  - name: Personajes
+    uniqueID: 3027790757
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  m_MigratedRenderPipelines: []
