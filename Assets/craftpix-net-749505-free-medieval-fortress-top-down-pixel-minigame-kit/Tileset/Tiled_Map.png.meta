@@ -1,0 +1,4079 @@
+fileFormatVersion: 2
+guid: 4673f51303d8f894bac849ea2196f544
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1294541981208598359
+    second: Tiled_Map_0
+  - first:
+      213: 3035858612522983646
+    second: Tiled_Map_1
+  - first:
+      213: -8536283320288168384
+    second: Tiled_Map_2
+  - first:
+      213: -121633853194287753
+    second: Tiled_Map_3
+  - first:
+      213: -6718061213554754155
+    second: Tiled_Map_4
+  - first:
+      213: 2682274823375885466
+    second: Tiled_Map_5
+  - first:
+      213: 8430339167659274417
+    second: Tiled_Map_6
+  - first:
+      213: -5974786207504874773
+    second: Tiled_Map_7
+  - first:
+      213: 8858173458492446173
+    second: Tiled_Map_8
+  - first:
+      213: -949369965863097587
+    second: Tiled_Map_9
+  - first:
+      213: -6641211950832540533
+    second: Tiled_Map_10
+  - first:
+      213: 481376999982815034
+    second: Tiled_Map_11
+  - first:
+      213: -2761977843260936162
+    second: Tiled_Map_12
+  - first:
+      213: 2141575214128963428
+    second: Tiled_Map_13
+  - first:
+      213: -2756553158141925475
+    second: Tiled_Map_14
+  - first:
+      213: 6634973046174292033
+    second: Tiled_Map_15
+  - first:
+      213: 5475216289113204183
+    second: Tiled_Map_16
+  - first:
+      213: -5271567514038126221
+    second: Tiled_Map_17
+  - first:
+      213: 8772996903410358396
+    second: Tiled_Map_18
+  - first:
+      213: 1483871259582178259
+    second: Tiled_Map_19
+  - first:
+      213: 6333579478481191250
+    second: Tiled_Map_20
+  - first:
+      213: -6541356976204146008
+    second: Tiled_Map_21
+  - first:
+      213: 6081197627031421345
+    second: Tiled_Map_22
+  - first:
+      213: 3039609264676448007
+    second: Tiled_Map_23
+  - first:
+      213: 766867176522708666
+    second: Tiled_Map_24
+  - first:
+      213: 7607322605714875672
+    second: Tiled_Map_25
+  - first:
+      213: 4637684323991180483
+    second: Tiled_Map_26
+  - first:
+      213: -5598643132074214766
+    second: Tiled_Map_27
+  - first:
+      213: 1513526940989077902
+    second: Tiled_Map_28
+  - first:
+      213: -6392902401546929102
+    second: Tiled_Map_29
+  - first:
+      213: 7446197152923147534
+    second: Tiled_Map_30
+  - first:
+      213: 3924044199573410848
+    second: Tiled_Map_31
+  - first:
+      213: -3161507951900629088
+    second: Tiled_Map_32
+  - first:
+      213: -2389909172813184200
+    second: Tiled_Map_33
+  - first:
+      213: -509651573236177270
+    second: Tiled_Map_34
+  - first:
+      213: 4589265314981391843
+    second: Tiled_Map_35
+  - first:
+      213: 2112920271352592869
+    second: Tiled_Map_36
+  - first:
+      213: 2065493568277733831
+    second: Tiled_Map_37
+  - first:
+      213: -131707293232546721
+    second: Tiled_Map_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tiled_Map_0
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757d4c8b21327f110800000000000000
+      internalID: 1294541981208598359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed02ebbc259812a20800000000000000
+      internalID: 3035858612522983646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046b1202c87098980800000000000000
+      internalID: -8536283320288168384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77541bba7aedf4ef0800000000000000
+      internalID: -121633853194287753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d3dba8be6a4c2a0800000000000000
+      internalID: -6718061213554754155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a941b459dba593520800000000000000
+      internalID: 2682274823375885466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0b460aec49ef470800000000000000
+      internalID: 8430339167659274417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_7
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2c4cc999b451da0800000000000000
+      internalID: -5974786207504874773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd55c30f3dd8eea70800000000000000
+      internalID: 8858173458492446173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b2e48cb0923d2f0800000000000000
+      internalID: -949369965863097587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b842c88daeca5d3a0800000000000000
+      internalID: -6641211950832540533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37d40fb4d13ea600800000000000000
+      internalID: 481376999982815034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10beeef8cb7ba9d0800000000000000
+      internalID: -2761977843260936162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f10f98f4768bd10800000000000000
+      internalID: 2141575214128963428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97287ce181ceb9d0800000000000000
+      internalID: -2756553158141925475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1489287f4d8241c50800000000000000
+      internalID: 6634973046174292033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5660db430ebfb40800000000000000
+      internalID: 5475216289113204183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379b444a641a7d6b0800000000000000
+      internalID: -5271567514038126221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_18
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78506bc332ffb970800000000000000
+      internalID: 8772996903410358396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_19
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3aec77c05c79410800000000000000
+      internalID: 1483871259582178259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251439b9af465e750800000000000000
+      internalID: 6333579478481191250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa145cdc7e6835a0800000000000000
+      internalID: -6541356976204146008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a10820b501c46450800000000000000
+      internalID: 6081197627031421345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707a60d858cde2a20800000000000000
+      internalID: 3039609264676448007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6fa8e42a574aa00800000000000000
+      internalID: 766867176522708666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8152f65ca93a29960800000000000000
+      internalID: 7607322605714875672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c454e7325d5c5040800000000000000
+      internalID: 4637684323991180483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a3988fbbf9d42b0800000000000000
+      internalID: -5598643132074214766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_28
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8933abdbb0210510800000000000000
+      internalID: 1513526940989077902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23cbd080329d747a0800000000000000
+      internalID: -6392902401546929102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d5283ebd4365760800000000000000
+      internalID: 7446197152923147534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0245186b861057630800000000000000
+      internalID: 3924044199573410848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7e364a4411024d0800000000000000
+      internalID: -3161507951900629088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833c505054655ded0800000000000000
+      internalID: -2389909172813184200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86e90a289a5de8f0800000000000000
+      internalID: -509651573236177270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3edac7f2d7850bf30800000000000000
+      internalID: 4589265314981391843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_36
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e971b4cac9925d10800000000000000
+      internalID: 2112920271352592869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c16c07f47b1aac10800000000000000
+      internalID: 2065493568277733831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_38
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cbb842ae41c2ef0800000000000000
+      internalID: -131707293232546721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_39
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2101cb25663d52041956038b7c98aa65
+      internalID: -299427986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f27535943c42f14997deb913059b8dd
+      internalID: -135553168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_41
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83c4009c64150147b3bc70064a82f99
+      internalID: 1362161309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_42
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d58b782c38112d4c930819dc93bae0d
+      internalID: -482001018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fe3e414962ffa48ae275d63cfa1a07
+      internalID: -763176780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91cc665c104fc14fa35cabf63cf68c5
+      internalID: -729114715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_45
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57389e620d525e64ba8a2a076fc3f86b
+      internalID: 17267640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_46
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e101522b0944604c9cd32cd85d3b5b8
+      internalID: 654763518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_47
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cf9642d2edf624593ae630d58ec5f9
+      internalID: 1156793073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_48
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd41622570f323c47822bb3b80c3ef80
+      internalID: -186287121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4462afe5eb821c649bf527aa8d2c0378
+      internalID: -279765273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f259dcb6af5d25949a189969dbc9c9df
+      internalID: -376597823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_51
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c803e2c43eceb14a973c3f1c869dd14
+      internalID: 1829998578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebde1d3954500ae4999ff30fc178075a
+      internalID: 1954525978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa0c38bdb9e5014a92a68df228add39
+      internalID: -2052537857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_54
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5d87072d2b5734a9f67974db35e843
+      internalID: -1581468966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789813ec8447e8645b25f0b6f97c615b
+      internalID: -1494361531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_56
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5470f03edd227408a061731700bbe9
+      internalID: 674762149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_57
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5956a02c2cc6dbb43ae4e62e0d59619a
+      internalID: 1848075092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_58
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29f1c1de4cf9b746a57592499479418
+      internalID: 277790693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_59
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f2612e49992484aa4e63841e624a9a
+      internalID: 1875208588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_60
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e52e1fa3204d842aab213e4a58cc7f
+      internalID: 1331900208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30af763565add3b4184b1e45ea5d94f6
+      internalID: 2030603170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e134529ddf9443a43a170faae5810d8f
+      internalID: 1269961266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_63
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db25fc93f375a942bd1a9bf15f9d7c1
+      internalID: 1599614106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914e0ddd3055da34a8c8a2e0d12ae4d1
+      internalID: 653524137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_65
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36a54652acedf147a2c2dbfaaf12f12
+      internalID: -1956016419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_66
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc489fbd8d2f2954bbc277d86e9d9c1a
+      internalID: 880870966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_67
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f59336a3a4385418e48298277b2cb0
+      internalID: 210450756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c7c28fbf5f62a49b7ff8ae12e34ce2
+      internalID: 1076856695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_69
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1149d40471355fe4ca7795c24b5e10a1
+      internalID: 1582891810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_70
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be473415d292a164192c6374f2712615
+      internalID: 94828768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_71
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8a863b763487f45b8251f6214a2c84
+      internalID: 48572644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858cdc13e53d1e546bd0db56c95b4c0e
+      internalID: 282218980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de67f5344b8924641a54db8f78114e5b
+      internalID: 1548732767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_74
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faee598c1c3183643ba4eec8629d014e
+      internalID: 646083155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_75
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656bb353fb80bd04c9f9054f040e1431
+      internalID: -1687932035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0155259f7bdeeae4582e91cf063435a5
+      internalID: 857939526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_77
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc89e5c65b4ad364a9d394afba048a63
+      internalID: 1847734549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_78
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226d71fc27f747f4caf2fe979df785e9
+      internalID: 1550312301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_79
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e815fc1431ff0541ade1f11b1eca572
+      internalID: 347538160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_80
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578a03d5a62ae8142899e91bbed6763d
+      internalID: -1810916142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_81
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9d969b94d6daa4c94bcf170f1bbbb8
+      internalID: 400557365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1884f4f4fb95e4f4a9d2d1587dd172ff
+      internalID: -211382649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87a71c47aa531047b139be5fe84c9a9
+      internalID: -1737909284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_84
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd1d9fc0c8bb6341ad0b0c7bc742f17
+      internalID: -981560614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_85
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b70decdbadd5945b486667e7c4fb95
+      internalID: -1701657996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_86
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d18e8168288754eb4280ac3f8cddc5
+      internalID: -145431465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_87
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c71acc49a29094a834f95d7f6032f6
+      internalID: 1418567911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bf348b5d5016e49bf1ff88de0c93a6
+      internalID: -837289150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_89
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0a73532d5f4db48ba12235f514c633
+      internalID: 2054990885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_90
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd0fded67e6ff245956fb452d82e381
+      internalID: -1944380242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_91
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e1c61428f83b341b93b63b228946f2
+      internalID: 1141803386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_92
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89471bcdad296eb46ae52e0e43444276
+      internalID: 595951768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_93
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c553d7f8c15460a49b83b0a71518aeff
+      internalID: 569942628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_94
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bac6aa1b950874cbb25524f1178024
+      internalID: 1977701477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_95
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e87dd1ce8fcf9e4590219e905b33392
+      internalID: 288247439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_96
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7fe75d6e075b04b8f7fe7f72b8f0cd
+      internalID: 168849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_97
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324af86e7acc95c4aa05b7b2245467f3
+      internalID: -762291456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_98
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bff42626e98abe44a124f1e502bf792
+      internalID: 1579713548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_99
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa89a3d0634b318429d9c582cac209ba
+      internalID: 2105596850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76a0350b35f30f44822f66586c222e1
+      internalID: 1329512305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_101
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7198c8813bdc8d14a925ce5fe5ee0905
+      internalID: -819289756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_102
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1813176bb4ef9074b9c8e6c847142d27
+      internalID: -545088795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_103
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4438ceaa769955f4089dc430e501cd25
+      internalID: 1564237397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20df73dc5c5c3794c9a388d98d1168a4
+      internalID: 2018172763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_105
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c245840431ed8e4492b26d2927bda96
+      internalID: -1388235495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_106
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfac96f16db99047a97f37faa144206
+      internalID: 499600294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_107
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49dacd1e5ac52cc4b8e412307dd96a99
+      internalID: -1775630919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_108
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cd79de489266948a8fbb46d0f06e11
+      internalID: 1364746699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_109
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42db82a1692278049b9388b2bb23b1c3
+      internalID: 901081020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_110
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1510eba16945f4780cb27ff2a9834c
+      internalID: 1635211603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_111
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccb9b15a5fe7bb44aad894e8b506715
+      internalID: -1512090681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_112
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382539b9b014d754691f48ffa6502ed2
+      internalID: -1563801144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_113
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6524b4c3eb7af4eb0b5180dab6e382
+      internalID: -1953058572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14098b21089b8c047af1f7ae355404da
+      internalID: -1417595099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fe4bc9a1499f644a11e8f7a363fbf1
+      internalID: -2122147170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770bdc13d921e4c478b2176223819200
+      internalID: -1804388233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68f405475a0ec54e837f5ad02853a79
+      internalID: 1707294344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_118
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c96582204bcbd6409536686d9da9b0d
+      internalID: 1573430514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_119
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8610be27f40cfff4bb992b7ff58bc9b1
+      internalID: -1993555521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_120
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89d26cb3150f4f4aa73b3927b1ef5a5
+      internalID: 310218104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_121
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b773457d222060c4bb3921cb17c26d36
+      internalID: 1258825131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_122
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a72a4710122a464e86b27bcc8b500a3
+      internalID: 408086066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_123
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce19b5f0a4d1dfa41a04a5ad18d14ac4
+      internalID: 1854269970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_124
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e336240897c1b1428615f8bc0d06cfd
+      internalID: -2055033250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_125
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77c863b78278ec478e9273f144453c1
+      internalID: 1995159058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_126
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74e3302bf4c58041bf5cb70a8704ce6
+      internalID: -793072117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_127
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3488dc4d5d9f8a44db122b61f8302bf4
+      internalID: 745665732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_128
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ab1d2fd1f0d544dabe96a0616c09a7
+      internalID: -1718456665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_129
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7194fb15311194cbe9dce1fd6bd8dd
+      internalID: -1573468602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_130
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ca8966c5f02e64b93821ff984619a6
+      internalID: -1936307636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_131
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a951363069af78743aa81f04d17b3b7a
+      internalID: -792634762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_132
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79b048a223590d4493373ef196cf835
+      internalID: 1728877540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_133
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed6e14abc31d3448968c9178cd9fb3d
+      internalID: 2026082025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_134
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17223ee8a5cc43f46b7173725990ed75
+      internalID: 316880572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_135
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba38ba259ab8214480b98613de9a7c1
+      internalID: 560034016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_136
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5ae135280809b4da6548b14a3a6d44
+      internalID: -1298535537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_137
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f787a2c05e1d35542bea3ce37a24b6e3
+      internalID: 1896048923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_138
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43f4d474d424e24b9aae64b3045621d
+      internalID: -543373671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_139
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670caae56027a704ba355fdeb0c6af4e
+      internalID: -810752484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_140
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd460fbf90fd364dab4b5156ffb5cf0
+      internalID: 2069777197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_141
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3076c353db507584bbb2ac9ff418c61d
+      internalID: 1768777498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_142
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e42fc989228b4d4e9533eaf1f87ca4a
+      internalID: 787541670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_143
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88179eff04ff94649873506a132a25ea
+      internalID: -1676014916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_144
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7e1ebbbf555344097a127d0adb49c9
+      internalID: -668039676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_145
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a6c40ef508bd74aa9fb26692076d13
+      internalID: 967382328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_146
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36592a9a72405a4499ae5e38e22c869
+      internalID: 1583784991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_147
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3410f3165a0b3434193c9e1cf71a789f
+      internalID: -1322819920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_148
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73dfbec3b37d0c54586b7dbcd65a2bb7
+      internalID: 591610716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_149
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a125a32da014940861f7ca0c026747
+      internalID: -1348960324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_150
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9f7784ebf46d14194bfcfa3c190522
+      internalID: -729790566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_151
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6b80a0712c47f449c9198db25372ce
+      internalID: -1556938926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_152
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6f865a9052f9d47add56642c3e83da
+      internalID: 1705053507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_153
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3585c96a1cf376f4c927c0b2d4eb68d8
+      internalID: -1747951433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_154
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d403fcf6fd6da64a8615c1588f08b1a
+      internalID: 841408530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_155
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad62d89d650fe5a43970911226ab3797
+      internalID: 1727764057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_156
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43d14f0d7f18c14fa6f12b4363baca0
+      internalID: 1643086457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_157
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d73712075447da4c9da5728f89bcefb
+      internalID: -1651960480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_158
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab236232650d169438917de97fa78d58
+      internalID: 84102172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_159
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdf48d1e17376f479a92eaae1c185b9
+      internalID: 1226902314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_160
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392c6a2a0250f3d41a41d71f72c5f612
+      internalID: 540666469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_161
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477d7d1c8604b4e40ad2a9a9a6348d2e
+      internalID: 1971023590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_162
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e7e05d80b8cf84d84a1bdc2ef0d42e
+      internalID: -2077939425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_163
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76eb0f07024c5e04ab89b8aa6e59947f
+      internalID: 1793757639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_164
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a483b3b5d1c8b24caba5ead1ee12483
+      internalID: 601709935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_165
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca52adc688d98c2458a9ab920ff159e1
+      internalID: 562325725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiled_Map_166
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95eb89bd4eed03d43a357f1932fef9ca
+      internalID: 2033339093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d71bcebfbc2d41b42b612320c071d02c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Tiled_Map_0: 1294541981208598359
+      Tiled_Map_1: 3035858612522983646
+      Tiled_Map_10: -6641211950832540533
+      Tiled_Map_100: 1329512305
+      Tiled_Map_101: -819289756
+      Tiled_Map_102: -545088795
+      Tiled_Map_103: 1564237397
+      Tiled_Map_104: 2018172763
+      Tiled_Map_105: -1388235495
+      Tiled_Map_106: 499600294
+      Tiled_Map_107: -1775630919
+      Tiled_Map_108: 1364746699
+      Tiled_Map_109: 901081020
+      Tiled_Map_11: 481376999982815034
+      Tiled_Map_110: 1635211603
+      Tiled_Map_111: -1512090681
+      Tiled_Map_112: -1563801144
+      Tiled_Map_113: -1953058572
+      Tiled_Map_114: -1417595099
+      Tiled_Map_115: -2122147170
+      Tiled_Map_116: -1804388233
+      Tiled_Map_117: 1707294344
+      Tiled_Map_118: 1573430514
+      Tiled_Map_119: -1993555521
+      Tiled_Map_12: -2761977843260936162
+      Tiled_Map_120: 310218104
+      Tiled_Map_121: 1258825131
+      Tiled_Map_122: 408086066
+      Tiled_Map_123: 1854269970
+      Tiled_Map_124: -2055033250
+      Tiled_Map_125: 1995159058
+      Tiled_Map_126: -793072117
+      Tiled_Map_127: 745665732
+      Tiled_Map_128: -1718456665
+      Tiled_Map_129: -1573468602
+      Tiled_Map_13: 2141575214128963428
+      Tiled_Map_130: -1936307636
+      Tiled_Map_131: -792634762
+      Tiled_Map_132: 1728877540
+      Tiled_Map_133: 2026082025
+      Tiled_Map_134: 316880572
+      Tiled_Map_135: 560034016
+      Tiled_Map_136: -1298535537
+      Tiled_Map_137: 1896048923
+      Tiled_Map_138: -543373671
+      Tiled_Map_139: -810752484
+      Tiled_Map_14: -2756553158141925475
+      Tiled_Map_140: 2069777197
+      Tiled_Map_141: 1768777498
+      Tiled_Map_142: 787541670
+      Tiled_Map_143: -1676014916
+      Tiled_Map_144: -668039676
+      Tiled_Map_145: 967382328
+      Tiled_Map_146: 1583784991
+      Tiled_Map_147: -1322819920
+      Tiled_Map_148: 591610716
+      Tiled_Map_149: -1348960324
+      Tiled_Map_15: 6634973046174292033
+      Tiled_Map_150: -729790566
+      Tiled_Map_151: -1556938926
+      Tiled_Map_152: 1705053507
+      Tiled_Map_153: -1747951433
+      Tiled_Map_154: 841408530
+      Tiled_Map_155: 1727764057
+      Tiled_Map_156: 1643086457
+      Tiled_Map_157: -1651960480
+      Tiled_Map_158: 84102172
+      Tiled_Map_159: 1226902314
+      Tiled_Map_16: 5475216289113204183
+      Tiled_Map_160: 540666469
+      Tiled_Map_161: 1971023590
+      Tiled_Map_162: -2077939425
+      Tiled_Map_163: 1793757639
+      Tiled_Map_164: 601709935
+      Tiled_Map_165: 562325725
+      Tiled_Map_166: 2033339093
+      Tiled_Map_17: -5271567514038126221
+      Tiled_Map_18: 8772996903410358396
+      Tiled_Map_19: 1483871259582178259
+      Tiled_Map_2: -8536283320288168384
+      Tiled_Map_20: 6333579478481191250
+      Tiled_Map_21: -6541356976204146008
+      Tiled_Map_22: 6081197627031421345
+      Tiled_Map_23: 3039609264676448007
+      Tiled_Map_24: 766867176522708666
+      Tiled_Map_25: 7607322605714875672
+      Tiled_Map_26: 4637684323991180483
+      Tiled_Map_27: -5598643132074214766
+      Tiled_Map_28: 1513526940989077902
+      Tiled_Map_29: -6392902401546929102
+      Tiled_Map_3: -121633853194287753
+      Tiled_Map_30: 7446197152923147534
+      Tiled_Map_31: 3924044199573410848
+      Tiled_Map_32: -3161507951900629088
+      Tiled_Map_33: -2389909172813184200
+      Tiled_Map_34: -509651573236177270
+      Tiled_Map_35: 4589265314981391843
+      Tiled_Map_36: 2112920271352592869
+      Tiled_Map_37: 2065493568277733831
+      Tiled_Map_38: -131707293232546721
+      Tiled_Map_39: -299427986
+      Tiled_Map_4: -6718061213554754155
+      Tiled_Map_40: -135553168
+      Tiled_Map_41: 1362161309
+      Tiled_Map_42: -482001018
+      Tiled_Map_43: -763176780
+      Tiled_Map_44: -729114715
+      Tiled_Map_45: 17267640
+      Tiled_Map_46: 654763518
+      Tiled_Map_47: 1156793073
+      Tiled_Map_48: -186287121
+      Tiled_Map_49: -279765273
+      Tiled_Map_5: 2682274823375885466
+      Tiled_Map_50: -376597823
+      Tiled_Map_51: 1829998578
+      Tiled_Map_52: 1954525978
+      Tiled_Map_53: -2052537857
+      Tiled_Map_54: -1581468966
+      Tiled_Map_55: -1494361531
+      Tiled_Map_56: 674762149
+      Tiled_Map_57: 1848075092
+      Tiled_Map_58: 277790693
+      Tiled_Map_59: 1875208588
+      Tiled_Map_6: 8430339167659274417
+      Tiled_Map_60: 1331900208
+      Tiled_Map_61: 2030603170
+      Tiled_Map_62: 1269961266
+      Tiled_Map_63: 1599614106
+      Tiled_Map_64: 653524137
+      Tiled_Map_65: -1956016419
+      Tiled_Map_66: 880870966
+      Tiled_Map_67: 210450756
+      Tiled_Map_68: 1076856695
+      Tiled_Map_69: 1582891810
+      Tiled_Map_7: -5974786207504874773
+      Tiled_Map_70: 94828768
+      Tiled_Map_71: 48572644
+      Tiled_Map_72: 282218980
+      Tiled_Map_73: 1548732767
+      Tiled_Map_74: 646083155
+      Tiled_Map_75: -1687932035
+      Tiled_Map_76: 857939526
+      Tiled_Map_77: 1847734549
+      Tiled_Map_78: 1550312301
+      Tiled_Map_79: 347538160
+      Tiled_Map_8: 8858173458492446173
+      Tiled_Map_80: -1810916142
+      Tiled_Map_81: 400557365
+      Tiled_Map_82: -211382649
+      Tiled_Map_83: -1737909284
+      Tiled_Map_84: -981560614
+      Tiled_Map_85: -1701657996
+      Tiled_Map_86: -145431465
+      Tiled_Map_87: 1418567911
+      Tiled_Map_88: -837289150
+      Tiled_Map_89: 2054990885
+      Tiled_Map_9: -949369965863097587
+      Tiled_Map_90: -1944380242
+      Tiled_Map_91: 1141803386
+      Tiled_Map_92: 595951768
+      Tiled_Map_93: 569942628
+      Tiled_Map_94: 1977701477
+      Tiled_Map_95: 288247439
+      Tiled_Map_96: 168849
+      Tiled_Map_97: -762291456
+      Tiled_Map_98: 1579713548
+      Tiled_Map_99: 2105596850
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
