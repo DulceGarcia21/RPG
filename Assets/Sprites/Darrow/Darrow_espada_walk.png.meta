@@ -1,0 +1,951 @@
+fileFormatVersion: 2
+guid: 06dca79496aebd34ea46a3a989d253f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1334039515827564482
+    second: Darrow_espada_walk_0
+  - first:
+      213: -1268613557609806189
+    second: Darrow_espada_walk_1
+  - first:
+      213: -7715171771817714918
+    second: Darrow_espada_walk_2
+  - first:
+      213: 850947037772713062
+    second: Darrow_espada_walk_3
+  - first:
+      213: 6795929308605391621
+    second: Darrow_espada_walk_4
+  - first:
+      213: 8142801991792354847
+    second: Darrow_espada_walk_5
+  - first:
+      213: 8677968285222215039
+    second: Darrow_espada_walk_6
+  - first:
+      213: -8766436111055797701
+    second: Darrow_espada_walk_7
+  - first:
+      213: 9117511089513661976
+    second: Darrow_espada_walk_8
+  - first:
+      213: -7132001310260923599
+    second: Darrow_espada_walk_9
+  - first:
+      213: 7921043317709217038
+    second: Darrow_espada_walk_10
+  - first:
+      213: -1584547284590379961
+    second: Darrow_espada_walk_11
+  - first:
+      213: 3514029053157326817
+    second: Darrow_espada_walk_12
+  - first:
+      213: 2497445887903146362
+    second: Darrow_espada_walk_13
+  - first:
+      213: -3080733086837615170
+    second: Darrow_espada_walk_14
+  - first:
+      213: 6066239240548712280
+    second: Darrow_espada_walk_15
+  - first:
+      213: -2141876712324330874
+    second: Darrow_espada_walk_16
+  - first:
+      213: -8655632107636965845
+    second: Darrow_espada_walk_17
+  - first:
+      213: 2308629424674434249
+    second: Darrow_espada_walk_18
+  - first:
+      213: 2691592536845097659
+    second: Darrow_espada_walk_19
+  - first:
+      213: 8931916132772176312
+    second: Darrow_espada_walk_20
+  - first:
+      213: -1894846570291725136
+    second: Darrow_espada_walk_21
+  - first:
+      213: 5214168314184070818
+    second: Darrow_espada_walk_22
+  - first:
+      213: -6678059436231392901
+    second: Darrow_espada_walk_23
+  - first:
+      213: -6518268912717322772
+    second: Darrow_espada_walk_24
+  - first:
+      213: 7851717521326308607
+    second: Darrow_espada_walk_25
+  - first:
+      213: -7569687508285066370
+    second: Darrow_espada_walk_26
+  - first:
+      213: -6735734484931762120
+    second: Darrow_espada_walk_27
+  - first:
+      213: -7677750001488202941
+    second: Darrow_espada_walk_28
+  - first:
+      213: 3966630834535826640
+    second: Darrow_espada_walk_29
+  - first:
+      213: -5905589998421664545
+    second: Darrow_espada_walk_30
+  - first:
+      213: -974636827669950922
+    second: Darrow_espada_walk_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Darrow_espada_walk_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 191
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf6c312fd5738210800000000000000
+      internalID: 1334039515827564482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_walk_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 191
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3964c65d0baf46ee0800000000000000
+      internalID: -1268613557609806189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_walk_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 191
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b1fa776243ee490800000000000000
+      internalID: -7715171771817714918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_walk_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 191
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c0d1582db2fcb00800000000000000
+      internalID: 850947037772713062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_walk_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 191
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503271623bdff4e50800000000000000
+      internalID: 6795929308605391621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_walk_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 191
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f166025e44b010170800000000000000
+      internalID: 8142801991792354847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_walk_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 191
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d96c47d265e6870800000000000000
+      internalID: 8677968285222215039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_walk_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 191
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32cc56bdcc575680800000000000000
+      internalID: -8766436111055797701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_walk_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816852e7708e78e70800000000000000
+      internalID: 9117511089513661976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_walk_9
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 127
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133f644689a060d90800000000000000
+      internalID: -7132001310260923599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_walk_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 127
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d1a821ee23ded60800000000000000
+      internalID: 7921043317709217038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_walk_11
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 127
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c3e24d3ae820ae0800000000000000
+      internalID: -1584547284590379961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_walk_12
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 127
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef38d34ec654c030800000000000000
+      internalID: 3514029053157326817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_walk_13
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 127
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a712a329dc5b8a220800000000000000
+      internalID: 2497445887903146362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_walk_14
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 127
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5504774990f35d0800000000000000
+      internalID: -3080733086837615170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_walk_15
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 127
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ff07fe27c9f2450800000000000000
+      internalID: 6066239240548712280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_walk_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 63
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a0a317a768642e0800000000000000
+      internalID: -2141876712324330874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_walk_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 63
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e35d5257401e780800000000000000
+      internalID: -8655632107636965845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_walk_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 63
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccebb7ea36e90020800000000000000
+      internalID: 2308629424674434249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_walk_19
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 63
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba9ebec6257a5520800000000000000
+      internalID: 2691592536845097659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_walk_20
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 63
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b16771466a84fb70800000000000000
+      internalID: 8931916132772176312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_walk_21
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 63
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcf4e9651724b5e0800000000000000
+      internalID: -1894846570291725136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_walk_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 63
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6f906b4727c5840800000000000000
+      internalID: 5214168314184070818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_walk_23
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 63
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b718b7a1354c253a0800000000000000
+      internalID: -6678059436231392901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_walk_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5230b85f47a85a0800000000000000
+      internalID: -6518268912717322772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_walk_25
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc7d574c77e6fc60800000000000000
+      internalID: 7851717521326308607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_walk_26
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73f4ff215113f690800000000000000
+      internalID: -7569687508285066370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_walk_27
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8382b446c2dd582a0800000000000000
+      internalID: -6735734484931762120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_walk_28
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 0
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3437a075d07237590800000000000000
+      internalID: -7677750001488202941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_walk_29
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d48e975abd4c0730800000000000000
+      internalID: 3966630834535826640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_walk_30
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 0
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc1af28f212b0ea0800000000000000
+      internalID: -5905589998421664545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_walk_31
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 0
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e08b518f46972f0800000000000000
+      internalID: -974636827669950922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Darrow_espada_walk_0: 1334039515827564482
+      Darrow_espada_walk_1: -1268613557609806189
+      Darrow_espada_walk_10: 7921043317709217038
+      Darrow_espada_walk_11: -1584547284590379961
+      Darrow_espada_walk_12: 3514029053157326817
+      Darrow_espada_walk_13: 2497445887903146362
+      Darrow_espada_walk_14: -3080733086837615170
+      Darrow_espada_walk_15: 6066239240548712280
+      Darrow_espada_walk_16: -2141876712324330874
+      Darrow_espada_walk_17: -8655632107636965845
+      Darrow_espada_walk_18: 2308629424674434249
+      Darrow_espada_walk_19: 2691592536845097659
+      Darrow_espada_walk_2: -7715171771817714918
+      Darrow_espada_walk_20: 8931916132772176312
+      Darrow_espada_walk_21: -1894846570291725136
+      Darrow_espada_walk_22: 5214168314184070818
+      Darrow_espada_walk_23: -6678059436231392901
+      Darrow_espada_walk_24: -6518268912717322772
+      Darrow_espada_walk_25: 7851717521326308607
+      Darrow_espada_walk_26: -7569687508285066370
+      Darrow_espada_walk_27: -6735734484931762120
+      Darrow_espada_walk_28: -7677750001488202941
+      Darrow_espada_walk_29: 3966630834535826640
+      Darrow_espada_walk_3: 850947037772713062
+      Darrow_espada_walk_30: -5905589998421664545
+      Darrow_espada_walk_31: -974636827669950922
+      Darrow_espada_walk_4: 6795929308605391621
+      Darrow_espada_walk_5: 8142801991792354847
+      Darrow_espada_walk_6: 8677968285222215039
+      Darrow_espada_walk_7: -8766436111055797701
+      Darrow_espada_walk_8: 9117511089513661976
+      Darrow_espada_walk_9: -7132001310260923599
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
