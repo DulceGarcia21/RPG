@@ -58,6 +58,9 @@ TagManager:
   - name: banca
     uniqueID: 1666014883
     locked: 0
+  - name: Enemigo
+    uniqueID: 1793108023
+    locked: 0
   - name: Personajes
     uniqueID: 3027790757
     locked: 0
