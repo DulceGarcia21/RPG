@@ -1,0 +1,639 @@
+fileFormatVersion: 2
+guid: 0c8f1dce264e1c143b37d0b46a62b4ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8367259751097003219
+    second: Darrow_espada_slash_0
+  - first:
+      213: 5465522495331865278
+    second: Darrow_espada_slash_1
+  - first:
+      213: 6511201205201938973
+    second: Darrow_espada_slash_2
+  - first:
+      213: -1254071586678362755
+    second: Darrow_espada_slash_3
+  - first:
+      213: -5828907426322250422
+    second: Darrow_espada_slash_4
+  - first:
+      213: -7059935355624621955
+    second: Darrow_espada_slash_5
+  - first:
+      213: 6148402208765574693
+    second: Darrow_espada_slash_6
+  - first:
+      213: 1038925855446560764
+    second: Darrow_espada_slash_7
+  - first:
+      213: 2088909920149083404
+    second: Darrow_espada_slash_8
+  - first:
+      213: 4976633830665397658
+    second: Darrow_espada_slash_9
+  - first:
+      213: 8268528354271906178
+    second: Darrow_espada_slash_10
+  - first:
+      213: -2464408306490841899
+    second: Darrow_espada_slash_11
+  - first:
+      213: 4611616922274267973
+    second: Darrow_espada_slash_12
+  - first:
+      213: 3687989124492653520
+    second: Darrow_espada_slash_13
+  - first:
+      213: -3002498250013009650
+    second: Darrow_espada_slash_14
+  - first:
+      213: 6700237684607658392
+    second: Darrow_espada_slash_15
+  - first:
+      213: -9008616019288410910
+    second: Darrow_espada_slash_16
+  - first:
+      213: -2240212764691948358
+    second: Darrow_espada_slash_17
+  - first:
+      213: -7069847792630153095
+    second: Darrow_espada_slash_18
+  - first:
+      213: 350150432338777097
+    second: Darrow_espada_slash_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Darrow_espada_slash_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 639
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc6f87796a7e1470800000000000000
+      internalID: 8367259751097003219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_slash_1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 639
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2992e70cf69db40800000000000000
+      internalID: 5465522495331865278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_slash_2
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 639
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a28219ffe6c5a50800000000000000
+      internalID: 6511201205201938973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_slash_3
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 639
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d20294984a89ee0800000000000000
+      internalID: -1254071586678362755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_slash_4
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 639
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a450d61249f8b1fa0800000000000000
+      internalID: -5828907426322250422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_slash_5
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 447
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78f5cef232160e90800000000000000
+      internalID: -7059935355624621955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_slash_6
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 447
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ef2b5bb33835550800000000000000
+      internalID: 6148402208765574693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_slash_7
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 447
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff6cd1af810b6e00800000000000000
+      internalID: 1038925855446560764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_slash_8
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 447
+        width: 93
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05964e318c4dfc10800000000000000
+      internalID: 2088909920149083404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_slash_9
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 447
+        width: 93
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95a0060a1e801540800000000000000
+      internalID: 4976633830665397658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_slash_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 255
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2894f9bcab6bfb270800000000000000
+      internalID: 8268528354271906178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_slash_11
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 255
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d46716c3b9accdd0800000000000000
+      internalID: -2464408306490841899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_slash_12
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 255
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543865c4821cfff30800000000000000
+      internalID: 4611616922274267973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_slash_13
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 236
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d373e4a19e5e2330800000000000000
+      internalID: 3687989124492653520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_slash_14
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 241
+        width: 80
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e091e31efbbf456d0800000000000000
+      internalID: -3002498250013009650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_slash_15
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 63
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899a9bdbca60cfc50800000000000000
+      internalID: 6700237684607658392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_slash_16
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 63
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4bb6cc577faf280800000000000000
+      internalID: -9008616019288410910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_slash_17
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 63
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc9d331c5a29e0e0800000000000000
+      internalID: -2240212764691948358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_slash_18
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 63
+        width: 93
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9704338e3ead2ed90800000000000000
+      internalID: -7069847792630153095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_espada_slash_19
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 63
+        width: 93
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904908986fbfbd400800000000000000
+      internalID: 350150432338777097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Darrow_espada_slash_0: 8367259751097003219
+      Darrow_espada_slash_1: 5465522495331865278
+      Darrow_espada_slash_10: 8268528354271906178
+      Darrow_espada_slash_11: -2464408306490841899
+      Darrow_espada_slash_12: 4611616922274267973
+      Darrow_espada_slash_13: 3687989124492653520
+      Darrow_espada_slash_14: -3002498250013009650
+      Darrow_espada_slash_15: 6700237684607658392
+      Darrow_espada_slash_16: -9008616019288410910
+      Darrow_espada_slash_17: -2240212764691948358
+      Darrow_espada_slash_18: -7069847792630153095
+      Darrow_espada_slash_19: 350150432338777097
+      Darrow_espada_slash_2: 6511201205201938973
+      Darrow_espada_slash_3: -1254071586678362755
+      Darrow_espada_slash_4: -5828907426322250422
+      Darrow_espada_slash_5: -7059935355624621955
+      Darrow_espada_slash_6: 6148402208765574693
+      Darrow_espada_slash_7: 1038925855446560764
+      Darrow_espada_slash_8: 2088909920149083404
+      Darrow_espada_slash_9: 4976633830665397658
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

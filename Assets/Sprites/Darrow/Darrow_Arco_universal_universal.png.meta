@@ -1,0 +1,1471 @@
+fileFormatVersion: 2
+guid: 591d4af61fd1189499d3f2e6f518faba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3629131648281078217
+    second: Darrow_Arco_universal_universal_0
+  - first:
+      213: -5608723115702098894
+    second: Darrow_Arco_universal_universal_1
+  - first:
+      213: 8935885742955994844
+    second: Darrow_Arco_universal_universal_2
+  - first:
+      213: -6143265733505703996
+    second: Darrow_Arco_universal_universal_3
+  - first:
+      213: 3503365102317263475
+    second: Darrow_Arco_universal_universal_4
+  - first:
+      213: 3615243750249604767
+    second: Darrow_Arco_universal_universal_5
+  - first:
+      213: -5087885654840690710
+    second: Darrow_Arco_universal_universal_6
+  - first:
+      213: 2409661270859912036
+    second: Darrow_Arco_universal_universal_7
+  - first:
+      213: -4373007473243605514
+    second: Darrow_Arco_universal_universal_8
+  - first:
+      213: -7349086698414683163
+    second: Darrow_Arco_universal_universal_9
+  - first:
+      213: 3670882149635963267
+    second: Darrow_Arco_universal_universal_10
+  - first:
+      213: -1031887940584974828
+    second: Darrow_Arco_universal_universal_11
+  - first:
+      213: -1824945665571402476
+    second: Darrow_Arco_universal_universal_12
+  - first:
+      213: 31039809375238001
+    second: Darrow_Arco_universal_universal_13
+  - first:
+      213: 7427699474735040811
+    second: Darrow_Arco_universal_universal_14
+  - first:
+      213: -3350838042401046142
+    second: Darrow_Arco_universal_universal_15
+  - first:
+      213: 2274029981993645019
+    second: Darrow_Arco_universal_universal_16
+  - first:
+      213: -9181684234638126704
+    second: Darrow_Arco_universal_universal_17
+  - first:
+      213: 4267994566317686913
+    second: Darrow_Arco_universal_universal_18
+  - first:
+      213: -5532306704692758391
+    second: Darrow_Arco_universal_universal_19
+  - first:
+      213: 8336057394453192226
+    second: Darrow_Arco_universal_universal_20
+  - first:
+      213: 6809403832940598810
+    second: Darrow_Arco_universal_universal_21
+  - first:
+      213: 7274278373380812542
+    second: Darrow_Arco_universal_universal_22
+  - first:
+      213: 7437171042883854860
+    second: Darrow_Arco_universal_universal_23
+  - first:
+      213: -2274737116297169834
+    second: Darrow_Arco_universal_universal_24
+  - first:
+      213: 5457822142982680880
+    second: Darrow_Arco_universal_universal_25
+  - first:
+      213: -9157260758242004817
+    second: Darrow_Arco_universal_universal_26
+  - first:
+      213: 6457443085484271580
+    second: Darrow_Arco_universal_universal_27
+  - first:
+      213: -3354345938009948427
+    second: Darrow_Arco_universal_universal_28
+  - first:
+      213: 7162563159573677088
+    second: Darrow_Arco_universal_universal_29
+  - first:
+      213: -2211849683002163813
+    second: Darrow_Arco_universal_universal_30
+  - first:
+      213: -1421378974200033266
+    second: Darrow_Arco_universal_universal_31
+  - first:
+      213: 7418558902651201745
+    second: Darrow_Arco_universal_universal_32
+  - first:
+      213: -2894719666300270739
+    second: Darrow_Arco_universal_universal_33
+  - first:
+      213: 2254118028053282865
+    second: Darrow_Arco_universal_universal_34
+  - first:
+      213: 8315760347160567021
+    second: Darrow_Arco_universal_universal_35
+  - first:
+      213: -6250901173467681670
+    second: Darrow_Arco_universal_universal_36
+  - first:
+      213: 1661936895054880052
+    second: Darrow_Arco_universal_universal_37
+  - first:
+      213: -6966509720351984920
+    second: Darrow_Arco_universal_universal_38
+  - first:
+      213: -1758909763169357714
+    second: Darrow_Arco_universal_universal_39
+  - first:
+      213: 2539614504035248932
+    second: Darrow_Arco_universal_universal_40
+  - first:
+      213: -2912947465917954146
+    second: Darrow_Arco_universal_universal_41
+  - first:
+      213: -1930802898208061144
+    second: Darrow_Arco_universal_universal_42
+  - first:
+      213: 3426804907804334069
+    second: Darrow_Arco_universal_universal_43
+  - first:
+      213: 4310522703170448115
+    second: Darrow_Arco_universal_universal_44
+  - first:
+      213: -874360499398784265
+    second: Darrow_Arco_universal_universal_45
+  - first:
+      213: 8071494472121165118
+    second: Darrow_Arco_universal_universal_46
+  - first:
+      213: -5420701255347864319
+    second: Darrow_Arco_universal_universal_47
+  - first:
+      213: 979438253717116461
+    second: Darrow_Arco_universal_universal_48
+  - first:
+      213: 3231775401008336395
+    second: Darrow_Arco_universal_universal_49
+  - first:
+      213: -7886282921256584532
+    second: Darrow_Arco_universal_universal_50
+  - first:
+      213: 9030904731290266619
+    second: Darrow_Arco_universal_universal_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 202
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736141d6efbb2adc0800000000000000
+      internalID: -3629131648281078217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 200
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234ed05ea00d922b0800000000000000
+      internalID: -5608723115702098894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 200
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde9e562db4a20c70800000000000000
+      internalID: 8935885742955994844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 200
+        width: 24
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf10912d5cbebaa0800000000000000
+      internalID: -6143265733505703996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 200
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ade1abff37e9030800000000000000
+      internalID: 3503365102317263475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 200
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f962416590deb2230800000000000000
+      internalID: 3615243750249604767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 200
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae73a6524f23469b0800000000000000
+      internalID: -5087885654840690710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_7
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 200
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4631f9ea826d07120800000000000000
+      internalID: 2409661270859912036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_8
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 200
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5bf2d4fd4ff43c0800000000000000
+      internalID: -4373007473243605514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_9
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 200
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebc17db59cc20a90800000000000000
+      internalID: -7349086698414683163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_10
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 200
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389bf5dadd791f230800000000000000
+      internalID: 3670882149635963267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_11
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 200
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4165c6d926ffda1f0800000000000000
+      internalID: -1031887940584974828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_12
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 200
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d4a3d069d7ca6e0800000000000000
+      internalID: -1824945665571402476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 137
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177f4bbca864e6000800000000000000
+      internalID: 31039809375238001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_14
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 137
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2900f1915d741760800000000000000
+      internalID: 7427699474735040811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 137
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28102decd8e6f71d0800000000000000
+      internalID: -3350838042401046142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 137
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3b155683afe8f10800000000000000
+      internalID: 2274029981993645019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_17
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 137
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0911792d5da149080800000000000000
+      internalID: -9181684234638126704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_18
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 137
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180c9acf176fa3b30800000000000000
+      internalID: 4267994566317686913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 137
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988b64e0d5c4933b0800000000000000
+      internalID: -5532306704692758391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_20
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 137
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e96afa800afa370800000000000000
+      internalID: 8336057394453192226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_21
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 137
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a169b9255bcdf7e50800000000000000
+      internalID: 6809403832940598810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_22
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 137
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe6baac3ad63f460800000000000000
+      internalID: 7274278373380812542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_23
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 137
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02e9e0e8a3263760800000000000000
+      internalID: 7437171042883854860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_24
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 137
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654f5b115a28e60e0800000000000000
+      internalID: -2274737116297169834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_25
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 137
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0317ebf72541ebb40800000000000000
+      internalID: 5457822142982680880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 73
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa07c5d8bdfdae080800000000000000
+      internalID: -9157260758242004817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_27
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 74
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7a793f5427d9950800000000000000
+      internalID: 6457443085484271580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_28
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 74
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe74273428f271d0800000000000000
+      internalID: -3354345938009948427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_29
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 72
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02440b7ae39866360800000000000000
+      internalID: 7162563159573677088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_30
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 72
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d7814ae6eed41e0800000000000000
+      internalID: -2211849683002163813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_31
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 73
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00199f8a5f364ce0800000000000000
+      internalID: -1421378974200033266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_32
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 73
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d826d9440404f660800000000000000
+      internalID: 7418558902651201745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_33
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 73
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67c5d5ecc3e3d7d0800000000000000
+      internalID: -2894719666300270739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_34
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 73
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1308be7576c384f10800000000000000
+      internalID: 2254118028053282865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_35
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 72
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decd8c91af3876370800000000000000
+      internalID: 8315760347160567021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_36
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 72
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ce26d50865049a0800000000000000
+      internalID: -6250901173467681670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_37
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 72
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d9cdcfcc2601710800000000000000
+      internalID: 1661936895054880052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_38
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 72
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e23d1ac15cf15f90800000000000000
+      internalID: -6966509720351984920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_39
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 9
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60f256b3e81797e0800000000000000
+      internalID: -1758909763169357714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_40
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 9
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b637b9fe58e3320800000000000000
+      internalID: 2539614504035248932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 9
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97069496b12397d0800000000000000
+      internalID: -2912947465917954146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_42
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 9
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82983017ef86435e0800000000000000
+      internalID: -1930802898208061144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_43
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 9
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f71e3c58e47e8f20800000000000000
+      internalID: 3426804907804334069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_44
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 9
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa2bb67f8d02db30800000000000000
+      internalID: 4310522703170448115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_45
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 9
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fac3b322c5add3f0800000000000000
+      internalID: -874360499398784265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_46
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 9
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35af413575b30070800000000000000
+      internalID: 8071494472121165118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_47
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 9
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10df979adecc5c4b0800000000000000
+      internalID: -5420701255347864319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_48
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 9
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26dc3807e9a79d00800000000000000
+      internalID: 979438253717116461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_49
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 9
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e82f2ca9299dc20800000000000000
+      internalID: 3231775401008336395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_50
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 9
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa7548677b4e8290800000000000000
+      internalID: -7886282921256584532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darrow_Arco_universal_universal_51
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 9
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb63fc5108345d70800000000000000
+      internalID: 9030904731290266619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Darrow_Arco_universal_universal_0: -3629131648281078217
+      Darrow_Arco_universal_universal_1: -5608723115702098894
+      Darrow_Arco_universal_universal_10: 3670882149635963267
+      Darrow_Arco_universal_universal_11: -1031887940584974828
+      Darrow_Arco_universal_universal_12: -1824945665571402476
+      Darrow_Arco_universal_universal_13: 31039809375238001
+      Darrow_Arco_universal_universal_14: 7427699474735040811
+      Darrow_Arco_universal_universal_15: -3350838042401046142
+      Darrow_Arco_universal_universal_16: 2274029981993645019
+      Darrow_Arco_universal_universal_17: -9181684234638126704
+      Darrow_Arco_universal_universal_18: 4267994566317686913
+      Darrow_Arco_universal_universal_19: -5532306704692758391
+      Darrow_Arco_universal_universal_2: 8935885742955994844
+      Darrow_Arco_universal_universal_20: 8336057394453192226
+      Darrow_Arco_universal_universal_21: 6809403832940598810
+      Darrow_Arco_universal_universal_22: 7274278373380812542
+      Darrow_Arco_universal_universal_23: 7437171042883854860
+      Darrow_Arco_universal_universal_24: -2274737116297169834
+      Darrow_Arco_universal_universal_25: 5457822142982680880
+      Darrow_Arco_universal_universal_26: -9157260758242004817
+      Darrow_Arco_universal_universal_27: 6457443085484271580
+      Darrow_Arco_universal_universal_28: -3354345938009948427
+      Darrow_Arco_universal_universal_29: 7162563159573677088
+      Darrow_Arco_universal_universal_3: -6143265733505703996
+      Darrow_Arco_universal_universal_30: -2211849683002163813
+      Darrow_Arco_universal_universal_31: -1421378974200033266
+      Darrow_Arco_universal_universal_32: 7418558902651201745
+      Darrow_Arco_universal_universal_33: -2894719666300270739
+      Darrow_Arco_universal_universal_34: 2254118028053282865
+      Darrow_Arco_universal_universal_35: 8315760347160567021
+      Darrow_Arco_universal_universal_36: -6250901173467681670
+      Darrow_Arco_universal_universal_37: 1661936895054880052
+      Darrow_Arco_universal_universal_38: -6966509720351984920
+      Darrow_Arco_universal_universal_39: -1758909763169357714
+      Darrow_Arco_universal_universal_4: 3503365102317263475
+      Darrow_Arco_universal_universal_40: 2539614504035248932
+      Darrow_Arco_universal_universal_41: -2912947465917954146
+      Darrow_Arco_universal_universal_42: -1930802898208061144
+      Darrow_Arco_universal_universal_43: 3426804907804334069
+      Darrow_Arco_universal_universal_44: 4310522703170448115
+      Darrow_Arco_universal_universal_45: -874360499398784265
+      Darrow_Arco_universal_universal_46: 8071494472121165118
+      Darrow_Arco_universal_universal_47: -5420701255347864319
+      Darrow_Arco_universal_universal_48: 979438253717116461
+      Darrow_Arco_universal_universal_49: 3231775401008336395
+      Darrow_Arco_universal_universal_5: 3615243750249604767
+      Darrow_Arco_universal_universal_50: -7886282921256584532
+      Darrow_Arco_universal_universal_51: 9030904731290266619
+      Darrow_Arco_universal_universal_6: -5087885654840690710
+      Darrow_Arco_universal_universal_7: 2409661270859912036
+      Darrow_Arco_universal_universal_8: -4373007473243605514
+      Darrow_Arco_universal_universal_9: -7349086698414683163
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
