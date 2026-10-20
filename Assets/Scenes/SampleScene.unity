@@ -872,7 +872,7 @@ GameObject:
   - component: {fileID: 97801818}
   m_Layer: 0
   m_Name: Size_04_1
-  m_TagString: Untagged
+  m_TagString: limites
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -980,7 +980,8 @@ Transform:
   m_LocalPosition: {x: -2.50735, y: 0.76519, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 1515411352}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &119907585
@@ -2677,7 +2678,7 @@ GameObject:
   - component: {fileID: 392598974}
   m_Layer: 0
   m_Name: Size_04_1 (1)
-  m_TagString: Untagged
+  m_TagString: limites
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4051,7 +4052,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalPosition: {x: 0, y: -28.93, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6519,7 +6520,7 @@ GameObject:
   - component: {fileID: 1034083273}
   m_Layer: 0
   m_Name: Size_04_0
-  m_TagString: Untagged
+  m_TagString: limites
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6795,7 +6796,7 @@ GameObject:
   - component: {fileID: 1093960050}
   m_Layer: 0
   m_Name: Size_04_11
-  m_TagString: Untagged
+  m_TagString: limites
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7342,7 +7343,7 @@ GameObject:
   - component: {fileID: 1195364947}
   m_Layer: 0
   m_Name: Size_04_4
-  m_TagString: Untagged
+  m_TagString: limites
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7911,7 +7912,7 @@ GameObject:
   - component: {fileID: 1252045326}
   m_Layer: 0
   m_Name: Size_04_1 (2)
-  m_TagString: Untagged
+  m_TagString: limites
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38230,7 +38231,7 @@ GameObject:
   - component: {fileID: 1324825985}
   m_Layer: 0
   m_Name: Size_04_0 (1)
-  m_TagString: Untagged
+  m_TagString: limites
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38482,7 +38483,7 @@ GameObject:
   - component: {fileID: 1369796028}
   m_Layer: 0
   m_Name: Size_04_0 (2)
-  m_TagString: Untagged
+  m_TagString: limites
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39513,9 +39514,10 @@ GameObject:
   - component: {fileID: 1515411355}
   - component: {fileID: 1515411354}
   - component: {fileID: 1515411353}
+  - component: {fileID: 1515411356}
   m_Layer: 0
-  m_Name: Casio_armaC_idle_4
-  m_TagString: Untagged
+  m_Name: Enemigo1
+  m_TagString: enemigo
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39588,12 +39590,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1515411350}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.19, y: -1.43, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 7.41, y: -32.41, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 105153678}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!50 &1515411353
 Rigidbody2D:
@@ -39671,6 +39673,28 @@ CapsuleCollider2D:
   m_Offset: {x: 0.23800683, y: 0}
   m_Size: {x: 0.99273634, y: 1.625}
   m_Direction: 0
+--- !u!95 &1515411356
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1515411350}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 6615f2b4b1ee0e640b2b67b84c489870, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1534019090
 GameObject:
   m_ObjectHideFlags: 0
@@ -67558,6 +67582,8 @@ GameObject:
   - component: {fileID: 1820763653}
   - component: {fileID: 1820763654}
   - component: {fileID: 1820763655}
+  - component: {fileID: 1820763657}
+  - component: {fileID: 1820763656}
   m_Layer: 0
   m_Name: Darrow
   m_TagString: Player
@@ -67720,7 +67746,7 @@ Transform:
   m_GameObject: {fileID: 1820763647}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.57, y: -1.81, z: 0}
+  m_LocalPosition: {x: -12.41, y: -26.06, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -67739,7 +67765,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 31f23b18c3a7fe44c82cf7c926f30267, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MovPlayer
-  velMov: 2.7
+  velMov: 4.7
   rb: {fileID: 1820763650}
   anim: {fileID: 1820763648}
 --- !u!114 &1820763654
@@ -67769,6 +67795,39 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::VidasPlayer
   vidaPlayer: {fileID: 40311226}
   gameover: {fileID: 625399522}
+--- !u!114 &1820763656
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1820763647}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 558e0f8de186fc44f86868d636680bb2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CAD
+  proyectil: {fileID: 4100132246024800754, guid: 463ed5e2e44fd834da1fde4535ec6617, type: 3}
+  tiempoEntreAtaques: 0.7
+  tiempoSigAtaque: 0
+  puntoEmision: {fileID: 2074596066}
+--- !u!114 &1820763657
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1820763647}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6ebec59c6f4a2f49ac8ccac79a3bc78, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CCC
+  controladorGolpe: {fileID: 2074596066}
+  radioGolpe: 0.7
+  danioGolpe: 1
+  tiempoEntreAtaques: 0.5
+  tiempoSigAtaque: 0
 --- !u!1 &1858732590
 GameObject:
   m_ObjectHideFlags: 0
@@ -68927,11 +68986,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1005277135882987916, guid: 463ed5e2e44fd834da1fde4535ec6617, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 6.47
+      value: -12.37
       objectReference: {fileID: 0}
     - target: {fileID: 1005277135882987916, guid: 463ed5e2e44fd834da1fde4535ec6617, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.08
+      value: -26.17
       objectReference: {fileID: 0}
     - target: {fileID: 1005277135882987916, guid: 463ed5e2e44fd834da1fde4535ec6617, type: 3}
       propertyPath: m_LocalPosition.z
@@ -69000,4 +69059,3 @@ SceneRoots:
   - {fileID: 914033019}
   - {fileID: 1950552295}
   - {fileID: 105153678}
-  - {fileID: 1515411352}

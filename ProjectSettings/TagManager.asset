@@ -6,6 +6,8 @@ TagManager:
   tags:
   - portal1
   - portal2
+  - enemigo
+  - limites
   layers:
   - Default
   - TransparentFX
