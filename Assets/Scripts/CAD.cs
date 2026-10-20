@@ -34,14 +34,26 @@ public class CAD : MonoBehaviour
     }
 
     private void Dispara(){
-        if(MovPlayer.dirAtaque == 1){
-            anim.SetTrigger("disparaFront");        
-        }else if(MovPlayer.dirAtaque == 2){
-            anim.SetTrigger("disparaBack");        
-        }else if(MovPlayer.dirAtaque == 3){
-            anim.SetTrigger("disparaLeft");        
-        }else if(MovPlayer.dirAtaque == 4){
-            anim.SetTrigger("disparaRight");        
+        switch(MovPlayer.dirAtaque){
+            case 1: // Frente
+            case 7: // Abajo-Derecha (usará la animación de frente)
+            case 8: // Abajo-Izquierda (usará la animación de frente)
+                anim.SetTrigger("disparaFront");        
+                break;
+                
+            case 2: // Espalda
+            case 5: // Arriba-Derecha (usará la animación de espalda)
+            case 6: // Arriba-Izquierda (usará la animación de espalda)
+                anim.SetTrigger("disparaBack");        
+                break;
+                
+            case 3: // Izquierda
+                anim.SetTrigger("disparaLeft");        
+                break;
+                
+            case 4: // Derecha
+                anim.SetTrigger("disparaRight");        
+                break;
         }
     }
 

@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 1553294187861971663}
   - component: {fileID: 2154382213751587276}
   - component: {fileID: 7474666944950405289}
-  - component: {fileID: 6264796601085142883}
+  - component: {fileID: -582555001871356786}
   m_Layer: 0
   m_Name: Flechas
   m_TagString: Untagged
@@ -158,7 +158,7 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_Radius: 0.50000006
---- !u!114 &6264796601085142883
+--- !u!114 &-582555001871356786
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

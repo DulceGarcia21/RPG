@@ -15,6 +15,14 @@ public class DisparaFlecha : MonoBehaviour
         }
         else if(CAD.dirDisparo == 4){
             transform.position += new Vector3(1,0,0) *Time.deltaTime * velocidad;
+        }else if(CAD.dirDisparo == 5){
+            transform.position += new Vector3(1, 1, 0).normalized * Time.deltaTime * velocidad;
+        }else if(CAD.dirDisparo == 6){
+            transform.position += new Vector3(-1, 1, 0).normalized * Time.deltaTime * velocidad;
+        }else if(CAD.dirDisparo == 7){
+            transform.position += new Vector3(1, -1, 0).normalized * Time.deltaTime * velocidad;
+        }else if(CAD.dirDisparo == 8){
+            transform.position += new Vector3(-1, -1, 0).normalized * Time.deltaTime * velocidad;
         }
     }
 
