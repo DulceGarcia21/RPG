@@ -11,8 +11,12 @@ public class ControladorMenu : MonoBehaviour
         panelOpciones.SetActive(false);
     }
 
-    public void Jugar(){
-        SceneManager.LoadScene("Main");
+    public void IrAIntro(){
+        SceneManager.LoadScene("Intro");
+    }
+
+    public void IrACreditos(){
+        SceneManager.LoadScene("Creditos");
     }
 
     public void AbreOpciones(){
