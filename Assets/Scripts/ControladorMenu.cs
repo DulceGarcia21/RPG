@@ -1,15 +1,14 @@
 using UnityEngine;
-using UnityEngine UI;
-using UnityEngine.SceneManagment;
+using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class ControladorMenu : MonoBehaviour
 {
-    public GameObject panelOpciones
+    public GameObject panelOpciones;
 
     void Start()
     {
         panelOpciones.SetActive(false);
-
     }
 
     public void Jugar(){
@@ -17,14 +16,14 @@ public class ControladorMenu : MonoBehaviour
     }
 
     public void AbreOpciones(){
-        panelOpciones.SetActive(true)
+        panelOpciones.SetActive(true);
     }
 
     public void CierraOpciones(){
-        panelOpciones.SetActive(false)
+        panelOpciones.SetActive(false);
     }
 
-    public void SalirJugeo(){
-        Application.Quit;
+    public void SalirJuego(){
+        Application.Quit();
     }
 }
