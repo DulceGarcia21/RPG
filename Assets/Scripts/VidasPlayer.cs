@@ -10,8 +10,10 @@ public class VidasPlayer : MonoBehaviour
     private bool haMuerto;
     public GameObject gameover;
     private const int vidasIni = 5;
-    public static int puedePerderVida = 1;
+    
 
+    private float tiempoInmune = 0f;
+    private float tiempoEsperaDanio = 1.5f; // Tiempo que pasa parpadeando o sin recibir daño
 
     void Start()
     {
@@ -21,12 +23,23 @@ public class VidasPlayer : MonoBehaviour
         gameover.SetActive(false); 
     }
 
+    void Update()
+    {
+        // Hacemos la cuenta regresiva del tiempo de inmunidad
+        if (tiempoInmune > 0)
+        {
+            tiempoInmune -= Time.deltaTime;
+        }
+    }
+
     public void TomarDanio(int danio){
-        if(vida > 0 && puedePerderVida == 1){
-            puedePerderVida = 0;
+        // Si la vida es mayor a 0 y ya paso el tiempo de inmunidad
+        if(vida > 0 && tiempoInmune <= 0){
+            tiempoInmune = tiempoEsperaDanio; // Activamos el tiempo de inmunidad
             vida -= danio;
             DibujarVida(vida);
         }
+        
         if(vida <= 0 && !haMuerto){
             haMuerto = true;
             StartCoroutine(EjecutarMuerte());
@@ -42,5 +55,4 @@ public class VidasPlayer : MonoBehaviour
         yield return new WaitForSeconds(1.2f);
         gameover.SetActive(true);
     }
-
 }

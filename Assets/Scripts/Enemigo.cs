@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Enemigo : MonoBehaviour
 {
-    public static int vidaEnemigo = 1;
+    public int vidaEnemigo = 1;
     private float frecAtaque = 2.5f, tiempoSigAtaque = 0, iniciaConteo;
 
     void Start()
@@ -10,21 +10,13 @@ public class Enemigo : MonoBehaviour
         vidaEnemigo = 1;
     }
 
-    void Update()
-    {
-        if(tiempoSigAtaque > 0){
-            tiempoSigAtaque = frecAtaque + iniciaConteo - Time.time;
-        }else{
-            tiempoSigAtaque = 0;
-            VidasPlayer.puedePerderVida = 1;
-        }
-    }
 
-    private void OnTriggerEnter2D(Collider2D obj){
+    private void OnTriggerStay2D(Collider2D obj){
         if(obj.tag == "Player"){
-            tiempoSigAtaque = frecAtaque;
-            iniciaConteo = Time.time;
-            obj.transform.GetComponentInChildren<VidasPlayer>().TomarDanio(1);
+            VidasPlayer vidasPlayer = obj.transform.GetComponent<VidasPlayer>();
+            if(vidasPlayer != null){
+                vidasPlayer.TomarDanio(1);
+            }
         }
     }
     public void TomarDanio(int danio){
