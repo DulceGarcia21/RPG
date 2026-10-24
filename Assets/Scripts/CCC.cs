@@ -10,6 +10,7 @@ public class CCC : MonoBehaviour
     private Animator anim;
 
     public static bool atacando;
+    [SerializeField] private AudioClip sonidoEspada;
 
     void Start()
     {
@@ -34,6 +35,10 @@ public class CCC : MonoBehaviour
     }
 
     private void Golpe(){
+        if (sonidoEspada != null){
+            AudioSource.PlayClipAtPoint(sonidoEspada, transform.position);
+        }
+
         if(MovPlayer.dirAtaque == 1){
             anim.SetTrigger("ataqueFront");        
         }else if(MovPlayer.dirAtaque == 2){

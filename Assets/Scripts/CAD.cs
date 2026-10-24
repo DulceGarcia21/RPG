@@ -10,6 +10,7 @@ public class CAD : MonoBehaviour
 
     public static bool disparando = false;
     public static int dirDisparo = 0;
+    [SerializeField] private AudioClip sonidoArco;
 
     void Start()
     {
@@ -36,14 +37,14 @@ public class CAD : MonoBehaviour
     private void Dispara(){
         switch(MovPlayer.dirAtaque){
             case 1: // Frente
-            case 7: // Abajo-Derecha (usará la animación de frente)
-            case 8: // Abajo-Izquierda (usará la animación de frente)
+            case 7: // Abajo-Derecha 
+            case 8: // Abajo-Izquierda
                 anim.SetTrigger("disparaFront");        
                 break;
                 
             case 2: // Espalda
-            case 5: // Arriba-Derecha (usará la animación de espalda)
-            case 6: // Arriba-Izquierda (usará la animación de espalda)
+            case 5: // Arriba-Derecha
+            case 6: // Arriba-Izquierda 
                 anim.SetTrigger("disparaBack");        
                 break;
                 
@@ -58,6 +59,10 @@ public class CAD : MonoBehaviour
     }
 
     private void EmiteProyectil(){
+        if (sonidoArco != null){
+            AudioSource.PlayClipAtPoint(sonidoArco, transform.position);
+        }
+
         dirDisparo = MovPlayer.dirAtaque;
         Instantiate(proyectil, puntoEmision.position, transform.rotation);
     }
