@@ -9,8 +9,8 @@ public class DialogoNPC : MonoBehaviour
 
     void Update()
     {
-        // Se oculta al presionar Espacio, Enter o la tecla E
-        if (Input.GetKeyDown(KeyCode.Space))
+        // Se oculta al presionar Espacio, Enter o la tecla E  
+        if (Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.Return) || Input.GetKeyDown(KeyCode.E))
         {
             gameObject.SetActive(false);
         }
