@@ -13,27 +13,40 @@ public class VidasPlayer : MonoBehaviour
     private bool haMuerto;
     public GameObject gameover;
     private const int vidasIni = 5;
-    public static int puedePerderVida = 1;
+
+    [SerializeField] private float tiempoInvulnerabilidad = 1f;
+    private bool esInvulnerable = false;
 
     void Start()
     {
         anchoVidasPlayer = vidaPlayer.GetComponent<RectTransform>().sizeDelta.x;
         haMuerto = false;
         vida = vidasIni;
-        puedePerderVida = 1;
         gameover.SetActive(false);
     }
 
     public void TomarDanio(int danio){
-        if(vida > 0 && puedePerderVida == 1){
-            puedePerderVida = 0;
-            vida -= danio;
-            DibujarVida(vida);
+        if(vida <= 0 || haMuerto || esInvulnerable){
+            return;
         }
-        if(vida <= 0 && !haMuerto){
+        vida -= danio;
+        if (vida < 0){
+            vida = 0;
+        }
+        DibujarVida(vida);
+        
+        if(vida <= 0){
             haMuerto = true;
             StartCoroutine(EjecutarMuerte());
+        } else{
+            StartCoroutine(Invulnerabilidad());
         }
+    }
+
+    private IEnumerator Invulnerabilidad(){
+        esInvulnerable = true;
+        yield return new WaitForSeconds(tiempoInvulnerabilidad);
+        esInvulnerable = false;
     }
 
     private void DibujarVida(int vida){
