@@ -34439,11 +34439,11 @@ PrefabInstance:
     - target: {fileID: 985617136538262775, guid: d6fdb0e9b8b77814883225c13d1874f2, type: 3}
       propertyPath: m_SpriteState.m_DisabledSprite
       value: 
-      objectReference: {fileID: 5086671344302943258, guid: 93c820432d8ee5942bd0dd138ee305cd, type: 3}
+      objectReference: {fileID: -1654173274426166694, guid: 41d14883a42f29c4e89a48221ce32813, type: 3}
     - target: {fileID: 985617136538262775, guid: d6fdb0e9b8b77814883225c13d1874f2, type: 3}
       propertyPath: m_SpriteState.m_SelectedSprite
       value: 
-      objectReference: {fileID: -9038315638763556240, guid: 587b040ae28a18c45b5bdb5450627461, type: 3}
+      objectReference: {fileID: 5086671344302943258, guid: 93c820432d8ee5942bd0dd138ee305cd, type: 3}
     - target: {fileID: 985617136538262775, guid: d6fdb0e9b8b77814883225c13d1874f2, type: 3}
       propertyPath: m_SpriteState.m_HighlightedSprite
       value: 
