@@ -144,16 +144,16 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 190358758}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.0003252, y: 1.0003252, z: 1.0003252}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 273019857}
+  m_Father: {fileID: 1344696090}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -150}
+  m_AnchoredPosition: {x: 0, y: -116.099976}
   m_SizeDelta: {x: 1000, y: 180}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &190358760
@@ -352,7 +352,6 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2052753159}
-  - {fileID: 190358759}
   - {fileID: 664037762}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -544,8 +543,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ControladorCreditos
   contenedorTexto: {fileID: 1344696090}
   velocidad: 100
-  posYInicial: -550
-  posYFinal: 2800
+  posYInicial: -400
+  posYFinal: 3000
 --- !u!1 &664037761
 GameObject:
   m_ObjectHideFlags: 0
@@ -582,8 +581,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -87.423}
-  m_SizeDelta: {x: 1500, y: 775.1}
+  m_AnchoredPosition: {x: 0, y: 11.16}
+  m_SizeDelta: {x: 1500, y: 972.33}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &664037763
 MonoBehaviour:
@@ -665,13 +664,14 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 190358759}
   - {fileID: 1573471749}
   m_Father: {fileID: 664037762}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 0, y: -1307.8}
-  m_SizeDelta: {x: 1920, y: 2500}
+  m_AnchoredPosition: {x: 46, y: -402.67007}
+  m_SizeDelta: {x: 1920, y: 2750}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1573471748
 GameObject:
@@ -707,8 +707,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -794}
-  m_SizeDelta: {x: 1500, y: 2500}
+  m_AnchoredPosition: {x: 0, y: -368.1}
+  m_SizeDelta: {x: 1500, y: 3000}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1573471750
 MonoBehaviour:
@@ -730,7 +730,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Nuestro mundo es una piramide dividida por colores.\r\n\r\nEn la cima estan los Dorados, due\xF1os del poder. Los Azules pilotan las naves y los Grises sirven como soldados. Y en el fondo estamos nosotros, los Rojos.\r\n\r\nNos ense\xF1aron que nuestra mision era cavar sin descanso bajo tierra, preparando la superficie para que algun dia la humanidad pudiera volver a vivir en ella. Nos hicieron creer que eramos la ultima esperanza de nuestra especie.\r\n\r\nPero todo era una mentira.\r\n\r\nLa superficie ya es un paraiso. Los Dorados se quedaron con ella y nos condenaron a vivir bajo tierra, esclavizados para mantener su imperio.\r\n\r\nMe llamo Darrow. Fui un minero Rojo, hasta que el sistema me arrebato lo que m\xE1s amaba.\r\n\r\nEntonces tome una decision: convertirme en algo que jamas debi ser.\r\n\r\nMe someti al Tallado, una intervencion quirurgica prohibida que transformo mi cuerpo para hacerme pasar por un Dorado.\r\n\r\nAhora estoy entre ellos. En su academia. En su mundo.\r\n\r\nPero para ganarme un lugar entre la elite y conseguir el poder necesario para destruirla, primero debo sobrevivir a La Prueba.\r\n\r\nUn filtro mortal donde los aspirantes deben enfrentarse entre si. Donde la confianza es una debilidad y sobrevivir significa estar dispuesto a sacrificarlo todo.\r\n\r\nYa no soy el minero que fui.\r\n\r\nY esta vez, no pienso agachar la cabeza.\r\n\r\nLa verdadera guerra comienza ahora.\n"
+  m_text: "DESARROLLO \r\nDulce Denisse Garc\xEDa Cruz y Jose Manuel Reyes Morales\r\n\n\r\n--- ARTE Y ENTORNOS (VISUALES) --- \r\n\n\u2022 Epic RPG World - Free House Interiors (Unity Asset Store) \r\n\u2022 Free - Pixel Art Asset Pack - Topdown Tileset (16x16) by Anokolisa \r\n\u2022 Free Medieval Fortress Top-Down Pixel Minigame Kit by CraftPix.net \r\n\u2022 Dark Dimension Tileset by finalbossblues \r\n\u2022 Labyrinth Explorers Asset by Shevaara\r\n\n\r\n--- PERSONAJES, ENEMIGOS Y ALIADOS (LPC) --- \r\n\nLos sprites de personajes, ropa, armaduras, accesorios y armas est\xE1n basados en los recursos del Liberated Pixel Cup (LPC) y OpenGameArt.org. \n\nAgradecimiento a los artistas colaboradores: \r\n\n\u2022 Sombras:\r\n - Dr. Jamgo \r\n\n\u2022 Cuerpos, Cabezas y Ojos Base: \r\n- Stephen Challener (Redshrike), Johannes Sj\xF6lund (wulax), Matthew Krohn (makrohn)\r\n\n \u2022 Orejas, Narices y Expresiones Faciales: \r\n- pflat, Thane Brimhall (pennomi), Eliza Wyatt (ElizaWy) \r\n\n\u2022 Ropa, Pantalones, Camisas y Armaduras: \r\n- bluecarrot16, Nila122, Michael Whitlock (bigbeargames), David Conway Jr. (JaidynReiman), Eliza Wyatt (ElizaWy), Marcel van de Steeg (MadMarcel), laetissima \r\n\n\u2022 Calzado (Botas y Zapatos): \r\n- bluecarrot16, Nila122, David Conway Jr. (JaidynReiman) \n\n\u2022 Cabellos, Cascos y Accesorios de Cabeza: - Manuel Riecke (MrBeast), thecilekli, Fabzy, bluecarrot16 \r\n\n\u2022 Armas, Arcos, Flechas, Escudos y Herramientas:\r\n - Johannes Sj\xF6lund (wulax), pflat, DarkwallLKE, Tuomo Untinen (reemax), Daniel Eddeland (daneeklu), Benjamin K. Smith (BenCreating), Sander Frenken (castelonia), Pierre Vigier (pvigier), gr3yh47, XOR \r\n\n\r\n--- INTERFAZ DE USUARIO (UI) --- \r\n\n\u2022 Bloodlines - Dark UI (Unity Asset Store) \r\n\n\r\n--- M\xDASICA Y EFECTOS DE SONIDO (AUDIO) \u2014\r\n\n\u2022 Fantasy RPG Adventure (25 Tracks!) (Unity Asset Store) \r\n\u2022 Middle Age - Medieval Action Sound FX Pack (Unity Asset Store) \r\n\r\n---LICENCIAS Y AGRADECIMIENTOS---\r\n\nLicencias principales aplicadas en los recursos gr\xE1ficos: CC-BY-SA 3.0, GPL 3.0, GPL 2.0 y CC0 (Dominio P\xFAblico). \r\n\n\n\r\n\xA1Gracias por jugar! \r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 87f61bcd99fd170449aeb224793eb70c, type: 2}
   m_sharedMaterial: {fileID: -8664364785308248422, guid: 87f61bcd99fd170449aeb224793eb70c, type: 2}
