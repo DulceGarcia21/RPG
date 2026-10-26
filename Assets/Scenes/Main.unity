@@ -11388,7 +11388,7 @@ Transform:
   m_GameObject: {fileID: 288691941}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -16.84, y: 96.26, z: 0}
+  m_LocalPosition: {x: -15.58, y: 92.95, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -11411,11 +11411,9 @@ MonoBehaviour:
   textoTMP: {fileID: 1882632773}
   velocidadEscritura: 0.03
   dialogos:
-  - 'Casio: prueba1
-
-'
-  - 'Casio: prueba2'
-  - 'Casio: prueba3'
+  - "Sevro: Por fin llegas, Segador... Como ves, s\xED logr\xE9 llegar a la entrada antes que t\xFA."
+  - 'Sevro: Pero estos malditos me emboscaron en el camino y me dejaron bastante malherido...'
+  - "Sevro: No voy a poder acompa\xF1arte adentro. Te toca limpiar el castillo t\xFA solo, \xA1no lo arruines!"
 --- !u!61 &288691944
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -21986,11 +21984,9 @@ MonoBehaviour:
   textoTMP: {fileID: 230140707}
   velocidadEscritura: 0.03
   dialogos:
-  - QURKSNNKMJS
-  - KSJNNJKASJKNSAD
-  - 'SKJNDJKNASD
-
-'
+  - "Sevro: \xA1Ey, Segador! Qu\xE9 bueno que te encuentro antes de que cometas una estupidez."
+  - "Sevro: Esc\xFAchame bien, no se te ocurra ir al lago por nada del mundo en este momento."
+  - "Sevro: Voy a ir a nadar para ir al castillo enemigo furtivamente y lo \xFAltimo que necesito es que andes rondando por ah\xED."
 --- !u!61 &518956406
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -39761,8 +39757,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -37.29, y: 0}
-  m_SizeDelta: {x: 110.34, y: -127.85}
+  m_AnchoredPosition: {x: -70.1, y: 45.12}
+  m_SizeDelta: {x: 132.51, y: -97.39}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &998090966
 MonoBehaviour:
@@ -47675,7 +47671,7 @@ Transform:
   m_GameObject: {fileID: 1214208026}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 12.44, y: -50.08, z: 0}
+  m_LocalPosition: {x: 11.81, y: -50.08, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -47698,11 +47694,9 @@ MonoBehaviour:
   textoTMP: {fileID: 600114501}
   velocidadEscritura: 0.03
   dialogos:
-  - 'Casio: prueba1
-
-'
-  - 'Casio: prueba2'
-  - 'Casio: prueba3'
+  - "Sevro: \xA1Pero qu\xE9 terco eres, Segador! Te dije bien clarito que no vinieras para ac\xE1."
+  - "Sevro: Al venir hasta ac\xE1 arriesgas que los enemigos te sigan y arruines todo el ataque furtivo al castillo."
+  - "Sevro: \xA1Si los guardias detectan el cruce por el agua, la infiltraci\xF3n va a fallar antes de empezar! \xA1Vete de aqu\xED!"
 --- !u!61 &1214208029
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -88004,8 +87998,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -37.29, y: 0}
-  m_SizeDelta: {x: 110.34, y: -127.85}
+  m_AnchoredPosition: {x: -13.28, y: 36.02}
+  m_SizeDelta: {x: 126.56, y: -103.54}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1459292883
 MonoBehaviour:
@@ -177443,7 +177437,7 @@ Transform:
   m_GameObject: {fileID: 1820763647}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6.43, y: 130.13, z: 0}
+  m_LocalPosition: {x: 10.49, y: 92.79, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -189734,8 +189728,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -37.29, y: 0}
-  m_SizeDelta: {x: 110.34, y: -127.85}
+  m_AnchoredPosition: {x: -44.39, y: 42.6}
+  m_SizeDelta: {x: 115.14, y: -99.1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2129310991
 MonoBehaviour:
