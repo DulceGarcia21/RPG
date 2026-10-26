@@ -14,19 +14,17 @@ public class Enemigo : MonoBehaviour
     private bool playerEnRango = false;
     public FinalJuego finalJuego;
     public bool esJefeFinal = false;
+    public int puntosOtorgados = 10;
 
     [SerializeField] private float distanciaDeteccionPlayer = 5f;
     [SerializeField] private Image barraVidaImagen;
     [SerializeField] private GameObject canvasVidaObj;
     private float anchoBarraOriginal;
-
     private SpriteRenderer spriteEnemigo;
     private NavMeshAgent agente;
     private Transform mirarHacia;
-
-
-
     private float frecAtaque = 2.5f, tiempoSigAtaque = 0, iniciaConteo;
+    
     private void Awake(){
         agente = GetComponent<NavMeshAgent>();
         spriteEnemigo = GetComponent<SpriteRenderer>();
@@ -118,7 +116,10 @@ public class Enemigo : MonoBehaviour
         ActualizarBarraVida();
 
         if(vidaActual <= 0){
-             if (esJefeFinal && finalJuego != null){
+            if (Puntaje.instancia != null){
+                Puntaje.instancia.SumarPuntos(puntosOtorgados);
+            }
+            if (esJefeFinal && finalJuego != null){
                 finalJuego.MostrarVictoria();
             }
             Destroy(gameObject);
