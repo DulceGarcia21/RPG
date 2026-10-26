@@ -14,6 +14,7 @@ public class VidasPlayer : MonoBehaviour
     private bool haMuerto;
     public GameObject gameover;
     private const int vidasIni = 5;
+    public EscudoMagico escudoMagico;
 
     [SerializeField] private float tiempoInvulnerabilidad = 1f;
     private bool esInvulnerable = false;
@@ -28,6 +29,10 @@ public class VidasPlayer : MonoBehaviour
     }
 
     public void TomarDanio(int danio){
+        if (escudoMagico != null && escudoMagico.EstaActivo()){
+            Debug.Log("¡Ataque bloqueado por el escudo!");
+            return; 
+        }
         if(vida <= 0 || haMuerto || esInvulnerable){
             return;
         }
