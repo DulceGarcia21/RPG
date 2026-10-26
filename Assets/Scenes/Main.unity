@@ -180025,8 +180025,8 @@ MonoBehaviour:
   objetoEscudo: {fileID: 2061771025}
   manaMaximo: 100
   manaActual: 100
-  costoManaPorSegundo: 25
-  velocidadRegeneracion: 5
+  costoManaPorSegundo: 30
+  velocidadRegeneracion: 2
   barraManaImagen: {fileID: 1219680972}
 --- !u!1 &1827020840
 GameObject:
