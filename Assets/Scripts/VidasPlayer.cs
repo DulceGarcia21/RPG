@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 
 
@@ -13,6 +14,7 @@ public class VidasPlayer : MonoBehaviour
     private bool haMuerto;
     public GameObject gameover;
     private const int vidasIni = 5;
+    public EscudoMagico escudoMagico;
 
     [SerializeField] private float tiempoInvulnerabilidad = 1f;
     private bool esInvulnerable = false;
@@ -23,9 +25,14 @@ public class VidasPlayer : MonoBehaviour
         haMuerto = false;
         vida = vidasIni;
         gameover.SetActive(false);
+        Time.timeScale = 1f;
     }
 
     public void TomarDanio(int danio){
+        if (escudoMagico != null && escudoMagico.EstaActivo()){
+            Debug.Log("¡Ataque bloqueado por el escudo!");
+            return; 
+        }
         if(vida <= 0 || haMuerto || esInvulnerable){
             return;
         }
@@ -57,6 +64,12 @@ public class VidasPlayer : MonoBehaviour
     IEnumerator EjecutarMuerte(){
         yield return new WaitForSeconds(1.2f);
         gameover.SetActive(true);
+        Time.timeScale = 0f;
+    }
+    public void ReiniciarJuego()
+    {
+        Time.timeScale = 1f; // Reactivamos el tiempo antes de recargar
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name); // Recarga la escena actual (resetea vidas, enemigos y posiciones)
     }
 
 }

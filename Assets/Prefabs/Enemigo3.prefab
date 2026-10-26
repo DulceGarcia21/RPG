@@ -154,8 +154,12 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
+  finalJuego: {fileID: 0}
+  esJefeFinal: 0
+  puntosOtorgados: 30
   distanciaDeteccionPlayer: 5
   barraVidaImagen: {fileID: 1315812198056116371}
+  canvasVidaObj: {fileID: 6056337307358732730}
 --- !u!50 &1090834513778108658
 Rigidbody2D:
   serializedVersion: 5
