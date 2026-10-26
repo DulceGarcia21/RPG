@@ -1,23 +1,29 @@
 using UnityEngine;
-using UnityEngine.AI; 
+using UnityEngine.AI;
+using UnityEngine.UI;
 
 public class Enemigo : MonoBehaviour
+
 {
     public int vidaEnemigo = 1;
+    private int vidaActual;
     public int danioJugador = 1;
     public Transform personaje;
     public Transform[] puntosRuta;
     private int indiceRuta = 0;
     private bool playerEnRango = false;
-    
-    [SerializeField] private float distanciaDeteccionPlayer = 5f; 
-    
+
+    [SerializeField] private float distanciaDeteccionPlayer = 5f;
+    [SerializeField] private Image barraVidaImagen;
+    private float anchoBarraOriginal;
+
     private SpriteRenderer spriteEnemigo;
-    private NavMeshAgent agente; 
+    private NavMeshAgent agente;
     private Transform mirarHacia;
 
-    private float frecAtaque = 2.5f, tiempoSigAtaque = 0, iniciaConteo;
 
+
+    private float frecAtaque = 2.5f, tiempoSigAtaque = 0, iniciaConteo;
     private void Awake(){
         agente = GetComponent<NavMeshAgent>();
         spriteEnemigo = GetComponent<SpriteRenderer>();
@@ -27,16 +33,17 @@ public class Enemigo : MonoBehaviour
     {
         agente.updateRotation = false;
         agente.updateUpAxis = false;
+        vidaActual = vidaEnemigo;
+
+        if(barraVidaImagen != null){
+            anchoBarraOriginal = barraVidaImagen.GetComponent<RectTransform>().sizeDelta.x;
+        }
     }
 
     void Update (){
-    
         transform.position = new Vector3(transform.position.x, transform.position.y, 0);
-        
         float distancia = Vector3.Distance(personaje.position, transform.position);
-
-     
-        if(puntosRuta.Length > 0 && transform.position == puntosRuta[indiceRuta].position){
+        if(puntosRuta.Length > 0 && Vector3.Distance(transform.position, puntosRuta[indiceRuta].position) < 0.2f){
             if(indiceRuta < puntosRuta.Length - 1){
                 indiceRuta++;
             }else if(indiceRuta == puntosRuta.Length - 1){
@@ -60,9 +67,11 @@ public class Enemigo : MonoBehaviour
         RotaEnemigo();
     }
 
+
+
     private void SigueAlPlayer(bool playerEnRango){
         if(playerEnRango){
-            agente.SetDestination(personaje.position); 
+            agente.SetDestination(personaje.position);
             mirarHacia = personaje;
         }else if(puntosRuta.Length > 0){
             agente.SetDestination(puntosRuta[indiceRuta].position);
@@ -92,9 +101,21 @@ public class Enemigo : MonoBehaviour
     }
 
     public void TomarDanio(int danio){
-        vidaEnemigo -= danio;
-        if(vidaEnemigo <= 0){
+        vidaActual -= danio;
+        if (vidaActual < 0) {
+            vidaActual = 0;
+        }
+        ActualizarBarraVida();
+
+        if(vidaActual <= 0){
             Destroy(gameObject);
+        }
+    }
+
+    private void ActualizarBarraVida(){
+        if(barraVidaImagen != null){
+            RectTransform rectTransform = barraVidaImagen.GetComponent<RectTransform>();
+            rectTransform.sizeDelta = new Vector2(anchoBarraOriginal * (float)vidaActual / (float)vidaEnemigo, rectTransform.sizeDelta.y);
         }
     }
 }
