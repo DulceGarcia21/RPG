@@ -231,6 +231,7 @@ MonoBehaviour:
   - {fileID: 0}
   distanciaDeteccionPlayer: 3
   barraVidaImagen: {fileID: 3087684936811524486}
+  canvasVidaObj: {fileID: 9125521089744168378}
 --- !u!50 &1783936279788358799
 Rigidbody2D:
   serializedVersion: 5

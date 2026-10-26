@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 
 
@@ -23,6 +24,7 @@ public class VidasPlayer : MonoBehaviour
         haMuerto = false;
         vida = vidasIni;
         gameover.SetActive(false);
+        Time.timeScale = 1f;
     }
 
     public void TomarDanio(int danio){
@@ -57,6 +59,12 @@ public class VidasPlayer : MonoBehaviour
     IEnumerator EjecutarMuerte(){
         yield return new WaitForSeconds(1.2f);
         gameover.SetActive(true);
+        Time.timeScale = 0f;
+    }
+    public void ReiniciarJuego()
+    {
+        Time.timeScale = 1f; // Reactivamos el tiempo antes de recargar
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name); // Recarga la escena actual (resetea vidas, enemigos y posiciones)
     }
 
 }

@@ -15,6 +15,7 @@ public class Enemigo : MonoBehaviour
 
     [SerializeField] private float distanciaDeteccionPlayer = 5f;
     [SerializeField] private Image barraVidaImagen;
+    [SerializeField] private GameObject canvasVidaObj;
     private float anchoBarraOriginal;
 
     private SpriteRenderer spriteEnemigo;
@@ -41,6 +42,13 @@ public class Enemigo : MonoBehaviour
     }
 
     void Update (){
+        if (Time.timeScale == 0){
+            if (canvasVidaObj != null) canvasVidaObj.SetActive(false);
+            return; 
+        } else{
+            if (canvasVidaObj != null) canvasVidaObj.SetActive(true);
+        }
+        
         transform.position = new Vector3(transform.position.x, transform.position.y, 0);
         float distancia = Vector3.Distance(personaje.position, transform.position);
         if(puntosRuta.Length > 0 && Vector3.Distance(transform.position, puntosRuta[indiceRuta].position) < 0.2f){
