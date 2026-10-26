@@ -12,6 +12,8 @@ public class Enemigo : MonoBehaviour
     public Transform[] puntosRuta;
     private int indiceRuta = 0;
     private bool playerEnRango = false;
+    public FinalJuego finalJuego;
+    public bool esJefeFinal = false;
 
     [SerializeField] private float distanciaDeteccionPlayer = 5f;
     [SerializeField] private Image barraVidaImagen;
@@ -48,7 +50,7 @@ public class Enemigo : MonoBehaviour
         } else{
             if (canvasVidaObj != null) canvasVidaObj.SetActive(true);
         }
-        
+
         transform.position = new Vector3(transform.position.x, transform.position.y, 0);
         float distancia = Vector3.Distance(personaje.position, transform.position);
         if(puntosRuta.Length > 0 && Vector3.Distance(transform.position, puntosRuta[indiceRuta].position) < 0.2f){
@@ -89,9 +91,9 @@ public class Enemigo : MonoBehaviour
 
     private void RotaEnemigo(){
         if(agente.velocity.x > 0.1f){
-            spriteEnemigo.flipX = false; // Mirando a la derecha
+            spriteEnemigo.flipX = true; 
         }else if(agente.velocity.x < -0.1f){
-            spriteEnemigo.flipX = true;  // Mirando a la izquierda
+            spriteEnemigo.flipX = false;  
         }
     }
 
@@ -116,6 +118,9 @@ public class Enemigo : MonoBehaviour
         ActualizarBarraVida();
 
         if(vidaActual <= 0){
+             if (esJefeFinal && finalJuego != null){
+                finalJuego.MostrarVictoria();
+            }
             Destroy(gameObject);
         }
     }
