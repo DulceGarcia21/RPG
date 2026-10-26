@@ -205,11 +205,9 @@ MonoBehaviour:
   textoTMP: {fileID: 1125613141}
   velocidadEscritura: 0.03
   dialogos:
-  - 'Casio: prueba1
-
-'
-  - 'Casio: prueba2'
-  - 'Casio: prueba3'
+  - "Casio: \xA1Darrow! Veo que ya est\xE1s listo para marchar hacia la zona de combate."
+  - 'Casio: Yo me voy a adelantar un poco a la vanguardia para explorar el terreno.'
+  - "Casio: Tratar\xE9 de despejar lo m\xE1s que pueda el camino de enemigos. \xA1Nos vemos m\xE1s adelante!"
 --- !u!61 &5647459
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -29629,11 +29627,9 @@ MonoBehaviour:
   textoTMP: {fileID: 224438150}
   velocidadEscritura: 0.03
   dialogos:
-  - 'Casio: prueba1
-
-'
-  - 'Casio: prueba2'
-  - 'Casio: prueba3'
+  - "Tactus: \xA1Ah, Segador! Qu\xE9 buen momento para cruzarnos. Estaba juntando algo de madera para las fogatas del castillo."
+  - "Tactus: Estaba por esa zona de all\xE1 arriba y me percat\xE9 de esa cueva que tienes justo en frente."
+  - "Tactus: Ten los ojos bien abiertos si vas a entrar... Jurar\xEDa haber escuchado ruidos y parece que hay algo acechando all\xE1 adentro."
 --- !u!61 &722592543
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -29672,7 +29668,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.46875, y: 1.65625}
+    oldSize: {x: 1.875, y: 1.59375}
     newSize: {x: 1.1875, y: 1.59375}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -29718,7 +29714,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.46875, y: 1.65625}
+    oldSize: {x: 1.875, y: 1.59375}
     newSize: {x: 1.1875, y: 1.59375}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -29775,7 +29771,7 @@ SpriteRenderer:
   m_SortingLayer: 7
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -8375210205130029550, guid: 4180be6acb50eb74c9675d943d15a142, type: 3}
+  m_Sprite: {fileID: 6300800792080505995, guid: 0a7c00647bc361a4dbf7fe6e035023fd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -31690,8 +31686,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -37.29, y: 0}
-  m_SizeDelta: {x: 110.34, y: -127.85}
+  m_AnchoredPosition: {x: -23.15, y: 56.57}
+  m_SizeDelta: {x: 119.89, y: -89.67}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &771820890
 MonoBehaviour:
@@ -39994,11 +39990,9 @@ MonoBehaviour:
   textoTMP: {fileID: 414876107}
   velocidadEscritura: 0.03
   dialogos:
-  - 'Casio: prueba1
-
-'
-  - 'Casio: prueba2'
-  - 'Casio: prueba3'
+  - "Roque: Psss... \xA1Ag\xE1chate, Segador! No hagas ruido si no quieres que nos descubran."
+  - 'Roque: Ya cruzamos la frontera. A partir de este punto estamos oficialmente en territorio enemigo.'
+  - "Roque: Mant\xE9n el arma lista y avanza con sigilo, hay patrullas enemigas rondando m\xE1s adelante."
 --- !u!61 &1020186837
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -42181,7 +42175,7 @@ GameObject:
   - component: {fileID: 1078980395}
   - component: {fileID: 1078980394}
   m_Layer: 0
-  m_Name: NPCentradalaberinto
+  m_Name: Casioantesdeentrarlaberinto
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -42196,7 +42190,7 @@ Transform:
   m_GameObject: {fileID: 1078980392}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 86.04, y: 25.32, z: 0}
+  m_LocalPosition: {x: 86.22, y: 19.91, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -42219,11 +42213,9 @@ MonoBehaviour:
   textoTMP: {fileID: 2029433491}
   velocidadEscritura: 0.03
   dialogos:
-  - 'Casio: prueba1
-
-'
-  - 'Casio: prueba2'
-  - 'Casio: prueba3'
+  - 'Casio: Espera un poco, Darrow. La ruta que sigue adelante se vuelve sumamente peligrosa.'
+  - "Casio: Este laberinto est\xE1 completamente infestado de enemigos custodiando el paso."
+  - 'Casio: No intentes pelear contra todos a lo loco. Ten mucho cuidado al cruzar.'
 --- !u!61 &1078980395
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -171113,8 +171105,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -37.29, y: 0}
-  m_SizeDelta: {x: 110.34, y: -127.85}
+  m_AnchoredPosition: {x: -108.74, y: 52.41}
+  m_SizeDelta: {x: 158.62, y: -92.47}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1706009081
 MonoBehaviour:
@@ -176052,8 +176044,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -37.29, y: 0}
-  m_SizeDelta: {x: 110.34, y: -127.85}
+  m_AnchoredPosition: {x: -1.1600037, y: 48.19}
+  m_SizeDelta: {x: 134.76, y: -95.32}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1803682348
 MonoBehaviour:
@@ -176339,8 +176331,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -37.29, y: 0}
-  m_SizeDelta: {x: 110.34, y: -127.85}
+  m_AnchoredPosition: {x: -77.19, y: 9.98}
+  m_SizeDelta: {x: 137.3, y: -121.11}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1805676778
 MonoBehaviour:
@@ -177437,7 +177429,7 @@ Transform:
   m_GameObject: {fileID: 1820763647}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 10.49, y: 92.79, z: 0}
+  m_LocalPosition: {x: 55.37, y: 64.78, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
