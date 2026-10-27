@@ -14878,7 +14878,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ControladorPausa
   panelPausa: {fileID: 2136700054}
-  sonidoPausa: {fileID: 0}
+  sonidoPausa: {fileID: 8300000, guid: eb181989f86f2084fa2b091582a9ad7b, type: 3}
 --- !u!4 &336809568
 Transform:
   m_ObjectHideFlags: 0
@@ -27627,7 +27627,7 @@ MonoBehaviour:
   m_BuildHeightMesh: 0
   m_MinRegionArea: 0
   m_HideEditorLogs: 0
-  m_NavMeshData: {fileID: 0}
+  m_NavMeshData: {fileID: 23800000, guid: 9bebaaf9143a57942b51bdfc81a2500c, type: 2}
 --- !u!4 &598166042
 Transform:
   m_ObjectHideFlags: 0
@@ -101955,7 +101955,7 @@ MonoBehaviour:
   - {fileID: 0}
   vidasPlayer: {fileID: 1820763655}
   escudoMagico: {fileID: 1820763658}
-  sonidoInventario: {fileID: 0}
+  sonidoInventario: {fileID: 8300000, guid: 3b6b62e8da3cb104e81e845c23812bc6, type: 3}
 --- !u!1 &1620054238
 GameObject:
   m_ObjectHideFlags: 0
@@ -186351,7 +186351,7 @@ MonoBehaviour:
   gameover: {fileID: 625399522}
   escudoMagico: {fileID: 1820763658}
   tiempoInvulnerabilidad: 1
-  sonidoGameOver: {fileID: 0}
+  sonidoGameOver: {fileID: 8300000, guid: dc7f513001cca8d4cba4c6c0690acb43, type: 3}
 --- !u!114 &1820763656
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -192881,6 +192881,7 @@ GameObject:
   - component: {fileID: 1951566449}
   - component: {fileID: 1951566448}
   - component: {fileID: 1951566447}
+  - component: {fileID: 1951566450}
   m_Layer: 5
   m_Name: btnExit
   m_TagString: Untagged
@@ -193002,6 +193003,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1951566445}
   m_CullTransparentMesh: 1
+--- !u!114 &1951566450
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1951566445}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f474137d8199e145a0f4648d9394b17, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SonidoBoton
+  sonidoClick: {fileID: 8300000, guid: b120117282334794eb8e17e03cc191f8, type: 3}
 --- !u!1 &1952850004
 GameObject:
   m_ObjectHideFlags: 0
@@ -198719,6 +198733,7 @@ GameObject:
   - component: {fileID: 2098414426}
   - component: {fileID: 2098414425}
   - component: {fileID: 2098414424}
+  - component: {fileID: 2098414427}
   m_Layer: 5
   m_Name: btnOpciones
   m_TagString: Untagged
@@ -198839,6 +198854,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2098414422}
   m_CullTransparentMesh: 1
+--- !u!114 &2098414427
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2098414422}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f474137d8199e145a0f4648d9394b17, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SonidoBoton
+  sonidoClick: {fileID: 8300000, guid: eb181989f86f2084fa2b091582a9ad7b, type: 3}
 --- !u!1 &2100080150
 GameObject:
   m_ObjectHideFlags: 0
