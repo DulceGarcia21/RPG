@@ -186351,6 +186351,7 @@ MonoBehaviour:
   gameover: {fileID: 625399522}
   escudoMagico: {fileID: 1820763658}
   tiempoInvulnerabilidad: 1
+  sonidoGameOver: {fileID: 8300000, guid: dc7f513001cca8d4cba4c6c0690acb43, type: 3}
 --- !u!114 &1820763656
 MonoBehaviour:
   m_ObjectHideFlags: 0
