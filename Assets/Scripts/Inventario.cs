@@ -3,27 +3,29 @@ using UnityEngine.UI;
 
 public class Inventario : MonoBehaviour
 {
-    [Header("UI y Visibilidad")]
+    
     public GameObject inventarioUI;
     public Transform contenedorCasillas;
     private bool muestraInventario = false;
 
-    [Header("Estructura de Datos (20 slots)")]
     public ItemData[] slots = new ItemData[20];
-
-    [Header("Referencias del Jugador")]
     public VidasPlayer vidasPlayer;
     public EscudoMagico escudoMagico;
+    public AudioClip sonidoInventario; 
+    private AudioSource audioSource;
 
     void Start()
     {
         muestraInventario = false;
-        if (inventarioUI != null)
-        {
+        if (inventarioUI != null){
             inventarioUI.SetActive(false);
         }
 
-        // Intenta obtener automáticamente las referencias del jugador si no están asignadas
+        audioSource = GetComponent<AudioSource>();
+        if (audioSource == null){
+            audioSource = gameObject.AddComponent<AudioSource>();
+        }
+        
         if (vidasPlayer == null) vidasPlayer = FindFirstObjectByType<VidasPlayer>();
         if (escudoMagico == null) escudoMagico = FindFirstObjectByType<EscudoMagico>();
 
@@ -32,18 +34,19 @@ public class Inventario : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.I))
-        {
+        if (Input.GetKeyDown(KeyCode.I)){
             EstatusInventario();
         }
     }
 
-    public void EstatusInventario()
-    {
+    public void EstatusInventario(){
         muestraInventario = !muestraInventario;
-        if (inventarioUI != null)
-        {
+        if (inventarioUI != null){
             inventarioUI.SetActive(muestraInventario);
+        }
+
+        if (sonidoInventario != null && audioSource != null){
+            audioSource.PlayOneShot(sonidoInventario);
         }
 
         Time.timeScale = muestraInventario ? 0f : 1f;
@@ -61,23 +64,21 @@ public class Inventario : MonoBehaviour
                 return true;
             }
         }
-        Debug.LogWarning("¡Inventario lleno!");
+        Debug.LogWarning("Inventario lleno");
         return false;
     }
 
-    public void UsarItem(int indice)
-    {
+    public void UsarItem(int indice){
         if (indice < 0 || indice >= slots.Length || slots[indice] == null) return;
 
         ItemData item = slots[indice];
 
-        switch (item.tipo)
-        {
+        switch (item.tipo){
             case TipoItem.PocionVida:
                 if (vidasPlayer != null)
                 {
                     vidasPlayer.CurarVida(item.valorVida);
-                    slots[indice] = null; // Consume la poción
+                    slots[indice] = null; // Consume la pocion
                 }
                 break;
 
@@ -85,12 +86,12 @@ public class Inventario : MonoBehaviour
                 if (escudoMagico != null)
                 {
                     escudoMagico.RecargarManaPorcentaje(item.porcentajeMana);
-                    slots[indice] = null; // Consume la poción
+                    slots[indice] = null; // Consume la pocion
                 }
                 break;
 
             case TipoItem.Coleccionable:
-                Debug.Log("Este ítem es un coleccionable y no se consume.");
+                Debug.Log("Este item es un coleccionable y no se consume.");
                 break;
         }
 
@@ -106,18 +107,13 @@ public class Inventario : MonoBehaviour
             Transform casilla = contenedorCasillas.GetChild(i);
             Image iconoImagen = casilla.Find("Icono")?.GetComponent<Image>();
 
-            if (i < slots.Length && slots[i] != null)
-            {
-                if (iconoImagen != null)
-                {
+            if (i < slots.Length && slots[i] != null){
+                if (iconoImagen != null){
                     iconoImagen.sprite = slots[i].icono;
                     iconoImagen.enabled = true;
                 }
-            }
-            else
-            {
-                if (iconoImagen != null)
-                {
+            }else{
+                if (iconoImagen != null){
                     iconoImagen.enabled = false;
                 }
             }

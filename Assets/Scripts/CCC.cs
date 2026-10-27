@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.EventSystems;
 
 public class CCC : MonoBehaviour
 {
@@ -20,6 +21,9 @@ public class CCC : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (EventSystem.current.IsPointerOverGameObject()){
+            return;
+        }
         if(tiempoSigAtaque < 0.05f && tiempoEntreAtaques >0){
             atacando = false;
         }

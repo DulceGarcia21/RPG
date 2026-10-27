@@ -23,9 +23,17 @@ public class ControladorSonido : MonoBehaviour
     }
 
     void Start(){
-        if (reproductor == null) reproductor = GetComponent<AudioSource>();
+        if (reproductor == null){
+            reproductor = GetComponent<AudioSource>();
+            if (reproductor == null){
+                reproductor = gameObject.AddComponent<AudioSource>();
+            }
+        }
         reproductor.volume = volumen;
-        if (SlVol != null) SlVol.value = volumen;
+        if (SlVol != null){
+            SlVol.value = volumen;
+            SlVol.onValueChanged.AddListener(_ => ModificaVolumen());
+        }
         ActualizarEstadoVisualBotones();
     }
 
