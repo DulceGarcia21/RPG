@@ -39,15 +39,15 @@ public class NPC : MonoBehaviour
 
     void Update()
     {
-        // Al presionar Espacio mientras el jugador está cerca
+
         if (jugadorCerca && Input.GetKeyDown(KeyCode.Space))
         {
-            // Si el texto aún se está escribiendo, lo completa de inmediato
+
             if (estaEscribiendo)
             {
                 CompletarTextoDeInmediato();
             }
-            // Si la frase ya terminó de escribirse, pasa a la siguiente
+
             else
             {
                 indiceDialogo++;
@@ -62,7 +62,7 @@ public class NPC : MonoBehaviour
         {
             jugadorCerca = true;
 
-            // Inicia el diálogo automáticamente al entrar al área
+
             cajaDialogo.SetActive(true);
             indiceDialogo = 0;
             MostrarSiguienteLinea();
@@ -74,13 +74,13 @@ public class NPC : MonoBehaviour
         if (obj.CompareTag("Player"))
         {
             jugadorCerca = false;
-            ReiniciarDialogo(); // Se cierra y se reinicia al alejarse
+            ReiniciarDialogo(); 
         }
     }
 
     private void MostrarSiguienteLinea()
     {
-        // Si todavía quedan frases por mostrar (Diálogos 1, 2, 3...)
+
         if (indiceDialogo < dialogos.Count)
         {
             if (corrutinaTexto != null)
@@ -91,12 +91,11 @@ public class NPC : MonoBehaviour
         }
         else
         {
-            // Al presionar espacio en el último diálogo, se cierra la caja
             ReiniciarDialogo();
         }
     }
 
-    // Corrutina del efecto máquina de escribir
+
     IEnumerator EscribirTexto(string linea)
     {
         estaEscribiendo = true;

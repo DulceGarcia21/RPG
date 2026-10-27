@@ -8,6 +8,7 @@ TagManager:
   - portal2
   - enemigo
   - limites
+  - Recogibles
   layers:
   - Default
   - TransparentFX

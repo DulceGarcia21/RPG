@@ -2,31 +2,28 @@ using UnityEngine;
 
 public class ColeccionablesPlayer : MonoBehaviour
 {
-    public static string objetoAColeccionar = "";
-    private Inventario inventario;
+    public Inventario inventario;
 
-    void Start()
+    private void Start()
     {
-        objetoAColeccionar = "";
-
-        inventario = Object.FindFirstObjectByType<Inventario>();
+        if (inventario == null)
+        {
+            inventario = FindAnyObjectByType<Inventario>();
+        }
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
- 
         if (collision.CompareTag("Recogibles"))
         {
-
-            objetoAColeccionar = collision.gameObject.name;
-
-            if (inventario != null)
+            ItemControlador itemCtrl = collision.GetComponent<ItemControlador>();
+            if (itemCtrl != null && itemCtrl.item != null)
             {
-                inventario.EscribeEnArreglo();
+                if (inventario != null && inventario.AgregarItem(itemCtrl.item))
+                {
+                    Destroy(collision.gameObject);
+                }
             }
-
-            // Destruye el objeto de la escena
-            Destroy(collision.gameObject);
         }
     }
 }
