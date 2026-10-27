@@ -15,8 +15,6 @@ public class VidasPlayer : MonoBehaviour
 
     [SerializeField] private float tiempoInvulnerabilidad = 1f;
     private bool esInvulnerable = false;
-    public AudioClip sonidoGameOver;
-    private AudioSource audioSource;
 
     void Start()
     {
@@ -25,17 +23,13 @@ public class VidasPlayer : MonoBehaviour
         vida = vidasIni;
         gameover.SetActive(false);
         Time.timeScale = 1f;
-        audioSource = GetComponent<AudioSource>();
-        if (audioSource == null){
-            audioSource = gameObject.AddComponent<AudioSource>();
-        }
     }
 
     public void TomarDanio(int danio)
     {
         if (escudoMagico != null && escudoMagico.EstaActivo())
         {
-            Debug.Log("Ataque bloqueado por el escudo");
+            Debug.Log("¡Ataque bloqueado por el escudo!");
             return;
         }
         if (vida <= 0 || haMuerto || esInvulnerable)
@@ -60,7 +54,6 @@ public class VidasPlayer : MonoBehaviour
         }
     }
 
-    
     public void CurarVida(int cantidad)
     {
         if (vida <= 0 || haMuerto) return;
@@ -74,7 +67,8 @@ public class VidasPlayer : MonoBehaviour
         Debug.Log("Vida curada: +" + cantidad + " | Vida actual: " + vida);
     }
 
-    private IEnumerator Invulnerabilidad(){
+    private IEnumerator Invulnerabilidad()
+    {
         esInvulnerable = true;
         yield return new WaitForSeconds(tiempoInvulnerabilidad);
         esInvulnerable = false;
@@ -88,9 +82,6 @@ public class VidasPlayer : MonoBehaviour
 
     IEnumerator EjecutarMuerte()
     {
-        if (sonidoGameOver != null && audioSource != null){
-            audioSource.PlayOneShot(sonidoGameOver);
-        }
         yield return new WaitForSeconds(1.2f);
         gameover.SetActive(true);
         Time.timeScale = 0f;
