@@ -153,7 +153,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -116.099976}
+  m_AnchoredPosition: {x: 0, y: -116.09961}
   m_SizeDelta: {x: 1000, y: 180}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &190358760
@@ -543,8 +543,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ControladorCreditos
   contenedorTexto: {fileID: 1344696090}
   velocidad: 100
-  posYInicial: -400
-  posYFinal: 3000
+  posYInicial: -600
+  posYFinal: 3200
 --- !u!1 &664037761
 GameObject:
   m_ObjectHideFlags: 0
@@ -670,8 +670,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 46, y: -402.67007}
-  m_SizeDelta: {x: 1920, y: 2750}
+  m_AnchoredPosition: {x: 0, y: -626.4}
+  m_SizeDelta: {x: 1920, y: 3200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1573471748
 GameObject:
@@ -707,8 +707,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -368.1}
-  m_SizeDelta: {x: 1500, y: 3000}
+  m_AnchoredPosition: {x: 0, y: -248.3}
+  m_SizeDelta: {x: 1500, y: 3200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1573471750
 MonoBehaviour:
@@ -730,7 +730,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "DESARROLLO \r\nDulce Denisse Garc\xEDa Cruz y Jose Manuel Reyes Morales\r\n\n\r\n--- ARTE Y ENTORNOS (VISUALES) --- \r\n\n\u2022 Epic RPG World - Free House Interiors (Unity Asset Store) \r\n\u2022 Free - Pixel Art Asset Pack - Topdown Tileset (16x16) by Anokolisa \r\n\u2022 Free Medieval Fortress Top-Down Pixel Minigame Kit by CraftPix.net \r\n\u2022 Dark Dimension Tileset by finalbossblues \r\n\u2022 Labyrinth Explorers Asset by Shevaara\r\n\n\r\n--- PERSONAJES, ENEMIGOS Y ALIADOS (LPC) --- \r\n\nLos sprites de personajes, ropa, armaduras, accesorios y armas est\xE1n basados en los recursos del Liberated Pixel Cup (LPC) y OpenGameArt.org. \n\nAgradecimiento a los artistas colaboradores: \r\n\n\u2022 Sombras:\r\n - Dr. Jamgo \r\n\n\u2022 Cuerpos, Cabezas y Ojos Base: \r\n- Stephen Challener (Redshrike), Johannes Sj\xF6lund (wulax), Matthew Krohn (makrohn)\r\n\n \u2022 Orejas, Narices y Expresiones Faciales: \r\n- pflat, Thane Brimhall (pennomi), Eliza Wyatt (ElizaWy) \r\n\n\u2022 Ropa, Pantalones, Camisas y Armaduras: \r\n- bluecarrot16, Nila122, Michael Whitlock (bigbeargames), David Conway Jr. (JaidynReiman), Eliza Wyatt (ElizaWy), Marcel van de Steeg (MadMarcel), laetissima \r\n\n\u2022 Calzado (Botas y Zapatos): \r\n- bluecarrot16, Nila122, David Conway Jr. (JaidynReiman) \n\n\u2022 Cabellos, Cascos y Accesorios de Cabeza: - Manuel Riecke (MrBeast), thecilekli, Fabzy, bluecarrot16 \r\n\n\u2022 Armas, Arcos, Flechas, Escudos y Herramientas:\r\n - Johannes Sj\xF6lund (wulax), pflat, DarkwallLKE, Tuomo Untinen (reemax), Daniel Eddeland (daneeklu), Benjamin K. Smith (BenCreating), Sander Frenken (castelonia), Pierre Vigier (pvigier), gr3yh47, XOR \r\n\n\r\n--- INTERFAZ DE USUARIO (UI) --- \r\n\n\u2022 Bloodlines - Dark UI (Unity Asset Store) \r\n\n\r\n--- M\xDASICA Y EFECTOS DE SONIDO (AUDIO) \u2014\r\n\n\u2022 Fantasy RPG Adventure (25 Tracks!) (Unity Asset Store) \r\n\u2022 Middle Age - Medieval Action Sound FX Pack (Unity Asset Store) \r\n\r\n---LICENCIAS Y AGRADECIMIENTOS---\r\n\nLicencias principales aplicadas en los recursos gr\xE1ficos: CC-BY-SA 3.0, GPL 3.0, GPL 2.0 y CC0 (Dominio P\xFAblico). \r\n\n\n\r\n\xA1Gracias por jugar! \r\n"
+  m_text: "DESARROLLO:\n\r\n* Dulce Denisse Garc\xEDa Cruz\r\n* Jose Manuel Reyes Morales\r\n\r\n--- ARTE Y ENTORNOS (VISUALES) ---\r\n\r\n* Epic RPG World - Free House Interiors (Unity Asset Store)\r\n* Free - Pixel Art Asset Pack - Topdown Tileset (16x16) by Anokolisa\r\n* Free Medieval Fortress Top-Down Pixel Minigame Kit by CraftPix.net\r\n* Dark Dimension Tileset by finalbossblues\r\n* Labyrinth Explorers Asset by Shevaara\r\n\r\n--- ICONOS E INTERFAZ DE USUARIO (UI) ---\r\n\r\n* Pixel Art Icon Pack - RPG | 2D Icons (Unity Asset Store)\r\n* Bloodlines - Dark UI (Unity Asset Store)\r\n\r\n--- PERSONAJES, ENEMIGOS Y ALIADOS (LPC) ---\r\n\r\nLos sprites de personajes, ropa, armaduras, accesorios y armas est\xE1n basados en los recursos del Liberated Pixel Cup (LPC) y OpenGameArt.org.\r\n\r\nAgradecimiento a los artistas colaboradores:\r\n\r\nSombras:\n* Dr. Jamgo\r\n\r\n\r\nCuerpos, Cabezas y Ojos Base:\n* Stephen Challener (Redshrike), Johannes Sj\xF6lund (wulax), Matthew Krohn (makrohn)\r\n\r\n\r\nOrejas, Narices y Expresiones Faciales:\n* pflat, Thane Brimhall (pennomi), Eliza Wyatt (ElizaWy)\r\n\r\n\r\nRopa, Pantalones, Camisas y Armaduras:\n* bluecarrot16, Nila122, Michael Whitlock (bigbeargames), David Conway Jr. (JaidynReiman), Eliza Wyatt (ElizaWy), Marcel van de Steeg (MadMarcel), laetissima\r\n\r\n\r\nCalzado (Botas y Zapatos):\r\n* bluecarrot16, Nila122, David Conway Jr. (JaidynReiman)\r\n\r\n\r\nCabellos, Cascos y Accesorios de Cabeza:\n* Manuel Riecke (MrBeast), thecilekli, Fabzy, bluecarrot16\r\n\r\n\r\nArmas, Arcos, Flechas, Escudos y Herramientas:\n* Johannes Sj\xF6lund (wulax), pflat, DarkwallLKE, Tuomo Untinen (reemax), Daniel Eddeland (daneeklu), Benjamin K. Smith (BenCreating), Sander Frenken (castelonia), Pierre Vigier (pvigier), gr3yh47, XOR\r\n\r\n\r\n\r\n--- M\xDASICA Y EFECTOS DE SONIDO (AUDIO) ---\r\n\r\n* Fantasy RPG Adventure (25 Tracks!) (Unity Asset Store)\r\n* Middle Age - Medieval Action Sound FX Pack (Unity Asset Store)\r\n* 8 Heals and Buffs SFX (OpenGameArt.org)\r\n* Inventory Sound Effects (OpenGameArt.org)\r\n* Game Over - Bad chest SFX (OpenGameArt.org)\r\n\r\n--- LICENCIAS Y AGRADECIMIENTOS ---\r\n\r\nLicencias principales aplicadas en los recursos gr\xE1ficos y de audio: CC-BY-SA 3.0, GPL 3.0, GPL 2.0 y CC0 (Dominio P\xFAblico).\r\n\r\n\xA1Gracias por jugar!"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 87f61bcd99fd170449aeb224793eb70c, type: 2}
   m_sharedMaterial: {fileID: -8664364785308248422, guid: 87f61bcd99fd170449aeb224793eb70c, type: 2}
