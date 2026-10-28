@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 public class ControladorMenu : MonoBehaviour
 {
     public GameObject panelOpciones;
+    public ControladorSonido controladorSonido;
 
     void Start()
     {

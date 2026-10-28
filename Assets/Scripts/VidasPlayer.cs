@@ -16,6 +16,11 @@ public class VidasPlayer : MonoBehaviour
     [SerializeField] private float tiempoInvulnerabilidad = 1f;
     private bool esInvulnerable = false;
 
+    public AudioSource audioSource; 
+    public AudioClip clipDanio;      
+    public AudioClip clipCurar;      
+    public AudioClip sonidoGameOver;
+
     void Start()
     {
         anchoVidasPlayer = vidaPlayer.GetComponent<RectTransform>().sizeDelta.x;
@@ -23,33 +28,33 @@ public class VidasPlayer : MonoBehaviour
         vida = vidasIni;
         gameover.SetActive(false);
         Time.timeScale = 1f;
+        if (audioSource == null)
+        {
+            audioSource = gameObject.AddComponent<AudioSource>();
+        }
     }
 
-    public void TomarDanio(int danio)
-    {
-        if (escudoMagico != null && escudoMagico.EstaActivo())
-        {
+    public void TomarDanio(int danio){
+        if (escudoMagico != null && escudoMagico.EstaActivo()){
             Debug.Log("¡Ataque bloqueado por el escudo!");
             return;
         }
-        if (vida <= 0 || haMuerto || esInvulnerable)
-        {
+        if (vida <= 0 || haMuerto || esInvulnerable){
             return;
         }
         vida -= danio;
-        if (vida < 0)
-        {
+        if (vida < 0){
             vida = 0;
         }
         DibujarVida(vida);
 
-        if (vida <= 0)
-        {
+        if (vida <= 0){
             haMuerto = true;
             StartCoroutine(EjecutarMuerte());
-        }
-        else
-        {
+        }else{
+            if (audioSource != null && clipDanio != null){
+                audioSource.PlayOneShot(clipDanio);
+            }
             StartCoroutine(Invulnerabilidad());
         }
     }
@@ -64,6 +69,9 @@ public class VidasPlayer : MonoBehaviour
             vida = vidasIni;
         }
         DibujarVida(vida);
+        if (audioSource != null && clipCurar != null){
+            audioSource.PlayOneShot(clipCurar);
+        }
         Debug.Log("Vida curada: +" + cantidad + " | Vida actual: " + vida);
     }
 
@@ -82,6 +90,9 @@ public class VidasPlayer : MonoBehaviour
 
     IEnumerator EjecutarMuerte()
     {
+        if (sonidoGameOver != null && audioSource != null){
+            audioSource.PlayOneShot(sonidoGameOver);
+        }
         yield return new WaitForSeconds(1.2f);
         gameover.SetActive(true);
         Time.timeScale = 0f;

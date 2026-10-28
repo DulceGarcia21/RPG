@@ -70,7 +70,7 @@ public class EscudoMagico : MonoBehaviour
         }
     }
 
-    // MÉTODO PARA EL INVENTARIO: Recarga maná por porcentaje al consumir pociones
+    
     public void RecargarManaPorcentaje(float porcentaje)
     {
         manaActual += manaMaximo * porcentaje;
@@ -79,7 +79,7 @@ public class EscudoMagico : MonoBehaviour
             manaActual = manaMaximo;
         }
         ActualizarBarraMana();
-        Debug.Log("Maná recargado: +" + (porcentaje * 100) + "% | Maná actual: " + manaActual);
+        Debug.Log("Mana recargado: +" + (porcentaje * 100) + "% | Mana actual: " + manaActual);
     }
 
     private void ActualizarBarraMana()

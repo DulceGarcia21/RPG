@@ -229,7 +229,10 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
-  distanciaDeteccionPlayer: 3
+  finalJuego: {fileID: 0}
+  esJefeFinal: 0
+  puntosOtorgados: 10
+  distanciaDeteccionPlayer: 4
   barraVidaImagen: {fileID: 3087684936811524486}
   canvasVidaObj: {fileID: 9125521089744168378}
 --- !u!50 &1783936279788358799

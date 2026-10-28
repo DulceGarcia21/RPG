@@ -3106,6 +3106,7 @@ GameObject:
   - component: {fileID: 70691974}
   - component: {fileID: 70691973}
   - component: {fileID: 70691972}
+  - component: {fileID: 70691975}
   m_Layer: 5
   m_Name: ApagarEncenderVol
   m_TagString: Untagged
@@ -3226,6 +3227,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 70691970}
   m_CullTransparentMesh: 1
+--- !u!114 &70691975
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 70691970}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f474137d8199e145a0f4648d9394b17, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SonidoBoton
+  sonidoClick: {fileID: 8300000, guid: 65bcebda2c3e757478a2c0e25a4f463c, type: 3}
 --- !u!1 &70756560
 GameObject:
   m_ObjectHideFlags: 0
@@ -18452,7 +18466,7 @@ SpriteRenderer:
   m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_SpriteSortPoint: 0
   m_BlendShapeWeights: []
 --- !u!1 &414876104
@@ -24589,7 +24603,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -0, z: -10}
+  m_LocalPosition: {x: -0.11, y: 0.08, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -41083,7 +41097,7 @@ SpriteRenderer:
   m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_SpriteSortPoint: 0
   m_BlendShapeWeights: []
 --- !u!1 &883762103
@@ -101955,7 +101969,7 @@ MonoBehaviour:
   - {fileID: 0}
   vidasPlayer: {fileID: 1820763655}
   escudoMagico: {fileID: 1820763658}
-  sonidoInventario: {fileID: 8300000, guid: 3b6b62e8da3cb104e81e845c23812bc6, type: 3}
+  sonidoInventario: {fileID: 8300000, guid: 295a737c97997704b9d2401322e13415, type: 3}
 --- !u!1 &1620054238
 GameObject:
   m_ObjectHideFlags: 0
@@ -102062,159 +102076,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1647723639}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1622620583
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1622620584}
-  - component: {fileID: 1622620587}
-  - component: {fileID: 1622620586}
-  - component: {fileID: 1622620585}
-  m_Layer: 0
-  m_Name: "PocionVidaPeque\xF1a (4)"
-  m_TagString: Recogibles
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1622620584
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1622620583}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.57, y: 3.12, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1677779575}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1622620585
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1622620583}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cc1a86346e361634784669228bdd730b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::ItemControlador
-  item: {fileID: 11400000, guid: fbc897eb58e96174392d0161748393ec, type: 2}
---- !u!61 &1622620586
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1622620583}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
-    newSize: {x: 1, y: 1}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Size: {x: 1, y: 1}
-  m_EdgeRadius: 0
---- !u!212 &1622620587
-SpriteRenderer:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1622620583}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RayTracingAccelStructBuildFlagsOverride: 0
-  m_RayTracingAccelStructBuildFlags: 1
-  m_SmallMeshCulling: 1
-  m_ForceMeshLod: -1
-  m_MeshLodSelectionBias: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 1665360121
-  m_SortingLayer: 1
-  m_SortingOrder: 1
-  m_MaskInteraction: 0
-  m_Sprite: {fileID: 21300000, guid: 117b17facff65dc42b1b57deb7c21551, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_SpriteSortPoint: 0
-  m_BlendShapeWeights: []
 --- !u!1 &1622744197
 GameObject:
   m_ObjectHideFlags: 0
@@ -104652,7 +104513,6 @@ Transform:
   - {fileID: 1441759305}
   - {fileID: 1542409497}
   - {fileID: 697585011}
-  - {fileID: 1622620584}
   - {fileID: 622761786}
   - {fileID: 797346810}
   - {fileID: 1704596578}
@@ -186319,7 +186179,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 31f23b18c3a7fe44c82cf7c926f30267, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MovPlayer
-  velMov: 15
+  velMov: 7
   rb: {fileID: 1820763650}
   anim: {fileID: 1820763648}
 --- !u!114 &1820763654
@@ -186351,6 +186211,9 @@ MonoBehaviour:
   gameover: {fileID: 625399522}
   escudoMagico: {fileID: 1820763658}
   tiempoInvulnerabilidad: 1
+  audioSource: {fileID: 0}
+  clipDanio: {fileID: 8300000, guid: 1192e0a8529fdea4c96f0005dfbc4fc6, type: 3}
+  clipCurar: {fileID: 8300000, guid: c228ec5aee15cc3458da15166b41f663, type: 3}
   sonidoGameOver: {fileID: 8300000, guid: dc7f513001cca8d4cba4c6c0690acb43, type: 3}
 --- !u!114 &1820763656
 MonoBehaviour:
@@ -190049,7 +189912,7 @@ SpriteRenderer:
   m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_SpriteSortPoint: 0
   m_BlendShapeWeights: []
 --- !u!1 &1904800485
@@ -193015,7 +192878,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f474137d8199e145a0f4648d9394b17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SonidoBoton
-  sonidoClick: {fileID: 8300000, guid: b120117282334794eb8e17e03cc191f8, type: 3}
+  sonidoClick: {fileID: 8300000, guid: 65bcebda2c3e757478a2c0e25a4f463c, type: 3}
 --- !u!1 &1952850004
 GameObject:
   m_ObjectHideFlags: 0

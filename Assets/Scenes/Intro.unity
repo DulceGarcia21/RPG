@@ -840,6 +840,7 @@ GameObject:
   - component: {fileID: 1938438812}
   - component: {fileID: 1938438811}
   - component: {fileID: 1938438810}
+  - component: {fileID: 1938438813}
   m_Layer: 5
   m_Name: btnSkip
   m_TagString: Untagged
@@ -960,6 +961,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1938438808}
   m_CullTransparentMesh: 1
+--- !u!114 &1938438813
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1938438808}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f474137d8199e145a0f4648d9394b17, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SonidoBoton
+  sonidoClick: {fileID: 8300000, guid: 65bcebda2c3e757478a2c0e25a4f463c, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
